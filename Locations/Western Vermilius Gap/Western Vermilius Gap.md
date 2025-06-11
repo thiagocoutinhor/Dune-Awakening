@@ -9,8 +9,9 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [1128.7813, 350.492] # Modificar
-defaultZoom: 0
+coordinates: [1148.0321, 395.3073] # Modificar
+defaultZoom: -0.5
+zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
 width: 95%
@@ -19,7 +20,6 @@ scale: 2.81
 unit: meters
 markerFolder: Locations
 ```
-
 # Uniques
 ```dataviewjs
 const current = dv.current()

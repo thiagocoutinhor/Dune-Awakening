@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hagga Basin.md",
+                "file": "Uniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hagga Basin"
+              "title": "Uniques"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Eastern Vermilius Gap"
             }
+          },
+          {
+            "id": "51ea499b0472390f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,33 +184,33 @@
   },
   "active": "74fed777a8f97df1",
   "lastOpenFiles": [
-    "Locations/Eastern Vermilius Gap/Westview.md",
-    "Hagga Basin.md",
+    "Uniques/2 - Iron/Shredder.md",
+    "Uniques.md",
+    "Locations/Western Vermilius Gap/Western Vermilius Gap.md",
+    "Locations/Hagga Rift/Hagga Rift.md",
     "Locations/Hagga Basin South/Hagga Basin South.md",
     "Locations/Eastern Vermilius Gap/Eastern Vermilius Gap.md",
-    "Locations/Eastern Vermilius Gap/The Bulwark.md",
-    "Locations/Eastern Vermilius Gap/Southeast Ironworks.md",
-    "Locations/Eastern Vermilius Gap/Imperial Testing Station No. 10.md",
-    "Locations/Eastern Vermilius Gap/Fila's Hideaway.md",
-    "Locations/Eastern Vermilius Gap/Drugrunner's Rise.md",
-    "Locations/Eastern Vermilius Gap/Fallen Ornitopter.md",
-    "Locations/Eastern Vermilius Gap/Eastview.md",
     "Locations/Eastern Vermilius Gap/Aren's Post.md",
-    "Locations/Hagga Basin South/Aren's Refuge.md",
-    "Locations/Hagga Basin South/Breaker Hideaway.md",
-    "Locations/Hagga Rift/Hagga Rift.md",
-    "zzz_attachments/Maps/Hagga Basin.png",
-    "Locations/Western Vermilius Gap/Western Vermilius Gap.md",
-    "Locations/Western Vermilius Gap/The Wreck of Pallas.md",
-    "Uniques/3 - Steel/Legion Tatoo.md",
-    "Locations/Western Vermilius Gap/Salan's Refuge.md",
-    "Locations/Western Vermilius Gap/Flatrock Outpost.md",
-    "Locations/Western Vermilius Gap/Imperial Testing Station No. 13.md",
-    "Locations/Western Vermilius Gap/Imperial Testing Station No. 197.md",
-    "Locations/Harko Village.md",
-    "Locations/Arakeen.md",
+    "zzz_templates/location-tradepost.md",
+    "zzz_templates/location.md",
+    "zzz_templates/map-hagga-basin.md",
+    "zzz_templates/region.md",
+    "zzz_templates/map-location.md",
+    "zzz_templates/location-tiral.md",
+    "zzz_templates/location-testing-station.md",
+    "zzz_templates/location-shipreck.md",
+    "zzz_templates/location-poi.md",
+    "zzz_templates/location-outpost.md",
+    "Hagga Basin.md",
     "Trainers.md",
-    "Trainers/Bene Gesserit - Advanced.md",
+    "Locations/Eastern Vermilius Gap/Zein Grotto.md",
+    "Locations/Eastern Vermilius Gap/The Pustle.md",
+    "Locations/Eastern Vermilius Gap/Drugrunner's Rise.md",
+    "Locations/Eastern Vermilius Gap/Mendia's Gate.md",
+    "Locations/Eastern Vermilius Gap/The Stash 1.md",
+    "Locations/Hagga Basin South/Threeway Outpost.md",
+    "Locations/Western Vermilius Gap/Southwest Ironworks.md",
+    "zzz_attachments/Maps/Hagga Basin.png",
     "zzz_attachments/Olef's Quickcutter.png",
     "zzz_attachments/Legion Tatoo.png",
     "zzz_attachments/Compact Compactor Kk3.png",

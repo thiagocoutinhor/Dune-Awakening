@@ -3,7 +3,7 @@ tags:
   - location
   - cavern
 region: "[[Eastern Vermilius Gap]]"
-location: [1091.7813, 827.9614]
+location: [1091, 829]
 ---
 # Location
 ```leaflet
@@ -14,6 +14,7 @@ bounds:
   - [3000, 1875]
 coordinates: [[Drugrunner's Rise]]
 defaultZoom: 0
+zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
 width: 250px

@@ -11,7 +11,7 @@ trainers:
   - Trooper
 representatives:
   - Argosaz
-location: [426, 704]
+location: [425, 705.5]
 ---
 # Location
 ```leaflet
@@ -22,6 +22,7 @@ bounds:
   - [3000, 1875]
 coordinates: [[Griffin's Reach Tradepost]]
 defaultZoom: 0
+zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
 width: 250px

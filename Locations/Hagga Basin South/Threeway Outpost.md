@@ -3,7 +3,7 @@ tags:
   - location
   - outpost
 region: "[[Hagga Basin South]]"
-location: [220, 832.4875]
+location: [219, 833]
 ---
 # Location
 ```leaflet
@@ -14,6 +14,7 @@ bounds:
   - [3000, 1875]
 coordinates: [[Threeway Outpost]]
 defaultZoom: 0
+zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
 width: 250px

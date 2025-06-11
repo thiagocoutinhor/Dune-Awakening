@@ -4,7 +4,7 @@ tags:
   - mining
 region: "[[Western Vermilius Gap]]"
 location:
-  - [759, 594]
+  - [759, 596]
   - [798, 605]
 ---
 # Location
@@ -16,6 +16,7 @@ bounds:
   - [3000, 1875]
 coordinates: [[Southwest Ironworks]]
 defaultZoom: 0
+zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
 width: 250px

@@ -3,9 +3,7 @@ tags:
   - location
   - outpost
 region: "[[Hagga Basin South]]"
-location:
-  - 381
-  - 1032.5368
+location: [380, 1032.5368]
 ---
 # Location
 ```leaflet
@@ -16,6 +14,7 @@ bounds:
   - [3000, 1875]
 coordinates: [[Breaker Station]]
 defaultZoom: 0
+zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
 width: 250px

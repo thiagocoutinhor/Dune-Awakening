@@ -1,9 +1,11 @@
 ---
 tags:
   - location
-  - cavern
+  - outpost
 region: "[[Hagga Basin South]]"
-location: [363, 1426.9997]
+location:
+  - 362
+  - 1426.9997
 ---
 # Location
 ```leaflet
@@ -14,6 +16,7 @@ bounds:
   - [3000, 1875]
 coordinates: [[Hollow Arches]]
 defaultZoom: 0
+zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
 width: 250px

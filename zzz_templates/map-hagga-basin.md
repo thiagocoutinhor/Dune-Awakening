@@ -6,6 +6,7 @@ bounds:
   - [3000, 1875]
 coordinates: [700, 935.5] # Modificar
 defaultZoom: 0
+zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
 width: 95%

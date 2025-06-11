@@ -3,7 +3,7 @@ tags:
   - location
   - cavern
 region: "[[Eastern Vermilius Gap]]"
-location: [1168.7813, 796.0083]
+location: [1168, 796.0083]
 ---
 # Location
 ```leaflet
@@ -14,6 +14,7 @@ bounds:
   - [3000, 1875]
 coordinates: [[The Pustle]]
 defaultZoom: 0
+zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
 width: 250px

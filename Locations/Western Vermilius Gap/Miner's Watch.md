@@ -3,7 +3,7 @@ tags:
   - location
   - outpost
 region: "[[Western Vermilius Gap]]"
-location: [1514, 195]
+location: [1514, 196]
 ---
 # Location
 ```leaflet
@@ -14,6 +14,7 @@ bounds:
   - [3000, 1875]
 coordinates: [[Miner's Watch]]
 defaultZoom: 0
+zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
 width: 250px

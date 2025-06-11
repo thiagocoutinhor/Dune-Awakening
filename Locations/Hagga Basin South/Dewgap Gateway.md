@@ -3,7 +3,7 @@ tags:
   - location
   - outpost
 region: "[[Hagga Basin South]]"
-location: [341, 519]
+location: [341, 520]
 ---
 # Location
 ```leaflet
@@ -14,6 +14,7 @@ bounds:
   - [3000, 1875]
 coordinates: [[Dewgap Gateway]]
 defaultZoom: 0
+zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
 width: 250px
