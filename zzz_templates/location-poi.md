@@ -2,7 +2,7 @@
 tags:
   - location
   - poi
-region: 
+region:
 location:
 ---
 # Location
@@ -11,7 +11,7 @@ id: hagga-basin
 image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
-  - [2000, 1875]
+  - [3000, 1875]
 coordinates: [[<%tp.file.title%>]]
 defaultZoom: 0
 minZoom: -2
