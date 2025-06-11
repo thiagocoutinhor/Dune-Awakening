@@ -1,0 +1,238 @@
+{
+  "mapMarkers": [],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-pin",
+    "color": "#aca062",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "Cavern",
+      "iconName": "circle",
+      "color": "#c87619",
+      "alpha": 0.5,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "cavern"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Shipwreck",
+      "iconName": "circle",
+      "color": "#284c10",
+      "alpha": 0.73,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "shipwreck"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Outpost",
+      "iconName": "circle",
+      "color": "#aca062",
+      "alpha": 0.73,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "outpost"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Tradepost",
+      "iconName": "circle",
+      "color": "#aca062",
+      "alpha": 0.63,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "tradepost"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Trial",
+      "iconName": "circle",
+      "color": "#b13eda",
+      "alpha": 0.66,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "trial"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Testing Station",
+      "iconName": "circle",
+      "color": "#6064d2",
+      "alpha": 0.71,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "testing-station"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Mining",
+      "iconName": "circle",
+      "color": "#aca062",
+      "alpha": 0.65,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "mining"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "POI",
+      "iconName": "map-pin",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "poi"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 0,
+  "long": 0,
+  "notePreview": true,
+  "layerMarkers": false,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": true,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 0,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "800px",
+    "image": "[[Hagga Basin.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Hagga Basin.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [
+      "Locations"
+    ],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -2,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 2.81,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "hagga-basin",
+    "bounds": [
+      [
+        0,
+        -625
+      ],
+      [
+        2000,
+        1875
+      ]
+    ],
+    "coordinates": [
+      1128.7813,
+      350.492
+    ],
+    "width": "95%",
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": false,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

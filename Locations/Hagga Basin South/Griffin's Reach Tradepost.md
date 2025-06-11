@@ -1,0 +1,35 @@
+---
+tags:
+  - location
+  - tradepost
+region: "[[Hagga Basin South]]"
+services:
+  - Vendor
+  - Contact Board
+  - Taxi Service
+trainers:
+  - Trooper
+representatives:
+  - Argosaz
+location: [426, 704]
+---
+# Location
+```leaflet
+id: hagga-basin
+image: [[Hagga Basin.png]]
+bounds:
+  - [0, -625]
+  - [2000, 1875]
+coordinates: [[Griffin's Reach Tradepost]]
+defaultZoom: 0
+minZoom: -2
+maxZoom: 1
+width: 250px
+height: 250px
+scale: 2.81
+unit: meters
+markerFolder: Locations
+noUI: true
+```
+# Shop
+[[Hajara Literjon Mk1]]

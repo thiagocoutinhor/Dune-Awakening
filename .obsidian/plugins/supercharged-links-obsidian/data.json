@@ -1,0 +1,98 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "tag",
+      "name": "",
+      "value": "cavern",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "a14f-d37a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "outpost",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "0dff-e2d6",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "shipwreck",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "3d65-bfdb",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "testing-station",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "9777-8d44",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "trial",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "b37d-5f60",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "mining",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "e93e-7251",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "unique",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "925e-b614",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

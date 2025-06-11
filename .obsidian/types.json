@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "services": "multitext",
+    "trainers": "multitext",
+    "fabricators": "multitext",
+    "representatives": "multitext",
+    "cost": "number",
+    "location": "multitext",
+    "lat": "number",
+    "long": "number",
+    "area": "text"
+  }
+}

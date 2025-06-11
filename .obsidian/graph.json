@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#trainer  ",
+      "color": {
+        "a": 1,
+        "rgb": 4833721
+      }
+    },
+    {
+      "query": "tag:#unique  ",
+      "color": {
+        "a": 1,
+        "rgb": 9845154
+      }
+    },
+    {
+      "query": "tag:#region",
+      "color": {
+        "a": 1,
+        "rgb": 14690601
+      }
+    },
+    {
+      "query": "tag:#cavern  ",
+      "color": {
+        "a": 1,
+        "rgb": 12940070
+      }
+    },
+    {
+      "query": "tag:#shipwreck  ",
+      "color": {
+        "a": 1,
+        "rgb": 3326799
+      }
+    },
+    {
+      "query": "tag:#testing-station  ",
+      "color": {
+        "a": 1,
+        "rgb": 3884776
+      }
+    },
+    {
+      "query": "tag:#outpost  ",
+      "color": {
+        "a": 1,
+        "rgb": 10327624
+      }
+    },
+    {
+      "query": "tag:#poi  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:zzz_templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.171875,
+  "lineSizeMultiplier": 1.73333333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.458333333333333,
+  "repelStrength": 13.0208333333333,
+  "linkStrength": 1,
+  "linkDistance": 125,
+  "scale": 0.25883865621816315,
+  "close": false
+}
