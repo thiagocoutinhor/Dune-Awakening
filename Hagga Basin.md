@@ -5,7 +5,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0,-625]
   - [3000, 1875]
-coordinates: [700, 935.5] # Modificar
+coordinates: [1500, 625] # Modificar
 defaultZoom: -1
 minZoom: -2
 maxZoom: 1
