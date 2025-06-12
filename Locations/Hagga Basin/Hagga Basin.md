@@ -1,3 +1,7 @@
+---
+tags:
+  - area
+---
 # Map
 ```leaflet
 id: hagga-basin
