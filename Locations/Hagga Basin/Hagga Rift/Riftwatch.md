@@ -4,7 +4,7 @@ tags:
   - fortress
   - harkonen
 region: "[[Hagga Rift]]"
-location:
+location: [1133, 1490]
 ---
 # Location
 ```leaflet

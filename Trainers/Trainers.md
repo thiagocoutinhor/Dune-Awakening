@@ -1,4 +1,5 @@
+# Locations
 ```dataview
-table area
+table area as location
 from #trainer
 ```
