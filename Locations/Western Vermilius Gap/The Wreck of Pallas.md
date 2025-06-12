@@ -28,3 +28,4 @@ noUI: true
 ```
 # Loot
 [[Legion Tatoo]]
+[[Way of the Wanderer]]

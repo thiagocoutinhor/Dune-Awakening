@@ -3,12 +3,13 @@ tags:
   - equipment
   - weapon
   - unique
-tier: Steel
+type: Short Blade
+tier: Iron
 fabricators:
   - General
   - Weapons
+cost:
 ---
-![[Legion Tatoo.png]]
 # Found In
 ```dataview
 table

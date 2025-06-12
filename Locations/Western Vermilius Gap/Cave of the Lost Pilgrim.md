@@ -1,14 +1,9 @@
 ---
 tags:
   - location
-  - tradepost
-region: "[[Eastern Vermilius Gap]]"
-services:
-trainers:
-representatives:
-location:
-  - 1203.7813
-  - 1227.0097
+  - trial
+region: "[[Western Vermilius Gap]]"
+location: [1143.8906, 119.5]
 ---
 # Location
 ```leaflet
@@ -17,7 +12,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[The Anvil]]
+coordinates: [[Cave of the Lost Pilgrim]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -30,6 +25,3 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Buoyant Reaper Mk2]]
-[[Scipio's Bloodbag]]
-[[Night Rider Sandbike Boost Mk2]]

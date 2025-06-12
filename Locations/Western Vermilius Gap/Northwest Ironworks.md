@@ -26,4 +26,6 @@ unit: meters
 markerFolder: Locations
 noUI: true
 ```
-# Loot
+# Loot - No mais ao sul
+[[Scipio's Drinker]]
+[[Iri's Gauntlet]]

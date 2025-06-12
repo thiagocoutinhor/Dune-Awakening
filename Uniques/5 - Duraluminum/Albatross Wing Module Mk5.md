@@ -3,7 +3,8 @@ tags:
   - vehicle
   - ornitopter
   - unique
-tier: Duraluminium
+type: 
+tier: Duraluminum
 fabricators:
   - Vehicle
 cost: 55000

@@ -1,14 +1,11 @@
 ---
 tags:
   - location
-  - tradepost
-region: "[[Eastern Vermilius Gap]]"
-services:
-trainers:
-representatives:
-location:
-  - 1203.7813
-  - 1227.0097
+  - cavern
+region: "[[Western Vermilius Gap]]"
+location: 
+  - [1130.8906, 114]
+  - [1152.4375, 66.7336]
 ---
 # Location
 ```leaflet
@@ -17,7 +14,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[The Anvil]]
+coordinates: [[Coils of the Wyrm]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -30,6 +27,4 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Buoyant Reaper Mk2]]
-[[Scipio's Bloodbag]]
-[[Night Rider Sandbike Boost Mk2]]
+[[Oathbreaker Armor]]

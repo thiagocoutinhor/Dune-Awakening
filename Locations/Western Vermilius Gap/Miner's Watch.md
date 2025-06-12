@@ -25,3 +25,5 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
+[[Pseudo Pulse Sword]]
+[[Mendia's Armor]]

@@ -8,24 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#trainer  ",
+      "query": "path:zzz_templates",
       "color": {
         "a": 1,
-        "rgb": 4833721
+        "rgb": 0
       }
     },
     {
-      "query": "tag:#unique  ",
+      "query": "tag:#unique",
       "color": {
         "a": 1,
-        "rgb": 9845154
+        "rgb": 14700531
+      }
+    },
+    {
+      "query": "tag:#trainer  ",
+      "color": {
+        "a": 1,
+        "rgb": 5501928
       }
     },
     {
       "query": "tag:#region",
       "color": {
         "a": 1,
-        "rgb": 14690601
+        "rgb": 9115672
       }
     },
     {
@@ -36,7 +43,7 @@
       }
     },
     {
-      "query": "tag:#shipwreck  ",
+      "query": "tag:#shipwreck",
       "color": {
         "a": 1,
         "rgb": 3326799
@@ -50,21 +57,28 @@
       }
     },
     {
-      "query": "tag:#outpost  ",
+      "query": "tag:#outpost OR tag:#mining OR tag:#tradepost ",
       "color": {
         "a": 1,
         "rgb": 10327624
       }
     },
     {
-      "query": "tag:#poi  ",
+      "query": "tag:#poi",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "path:zzz_templates  ",
+      "query": "tag:#trial",
+      "color": {
+        "a": 1,
+        "rgb": 6823282
+      }
+    },
+    {
+      "query": "path:/",
       "color": {
         "a": 1,
         "rgb": 0
@@ -74,13 +88,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.171875,
-  "lineSizeMultiplier": 1.73333333333333,
+  "nodeSizeMultiplier": 1.5546875,
+  "lineSizeMultiplier": 2.24375,
   "collapse-forces": false,
-  "centerStrength": 0.458333333333333,
-  "repelStrength": 13.0208333333333,
+  "centerStrength": 0.510416666666667,
+  "repelStrength": 18.3333333333333,
   "linkStrength": 1,
-  "linkDistance": 125,
-  "scale": 0.25883865621816315,
+  "linkDistance": 282,
+  "scale": 0.13168724279835442,
   "close": false
 }

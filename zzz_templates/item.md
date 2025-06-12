@@ -1,7 +1,9 @@
 ---
 tags: 
+type: 
 tier: 
-fabricators:
+fabricators: 
+cost:
 ---
 # Found In
 ```dataview

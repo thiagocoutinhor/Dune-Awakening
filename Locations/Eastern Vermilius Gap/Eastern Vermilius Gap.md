@@ -21,6 +21,26 @@ scale: 2.81
 unit: meters
 markerFolder: Locations
 ```
+# Uniques
+```dataviewjs
+const current = dv.current()
+
+dv.table([
+	'Unique', 'Location'
+], dv.pages('#unique')
+	.filter(page => page.file.inlinks.map(inlink => dv.page(inlink).region).includes(current.file.link))
+	.map(page => {
+		page.locais = page.file.inlinks
+			.filter(inlink => dv.page(inlink).tags.includes('location'))
+			.filter(inlink => dv.page(inlink).region == String(current.file.link))
+		return page
+	})
+	.map(page => [
+		page.file.link,
+		page.locais.join(', ')
+	])
+)
+```
 # Locations
 ```dataview
 table replace(join(tags), "location, ", "") as Tipo
