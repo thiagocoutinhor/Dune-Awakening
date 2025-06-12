@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3bf1352bb4105fc1",
+        "id": "7f35317820b0bcbf",
         "type": "tabs",
         "children": [
           {
-            "id": "c364d5fc4cbfdcda",
+            "id": "2512af3c4e2c02a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,8 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c364d5fc4cbfdcda",
+  "active": "2512af3c4e2c02a4",
   "lastOpenFiles": [
+    "Teste.md",
+    "Uniques/2 - Iron/Buoyant Reaper Mk2.md",
+    "Hagga Basin.md",
+    "Uniques/1 - Copper/Aren's Armor Set.md",
     "Uniques.md",
     "Locations/Western Vermilius Gap/The Wreck of Pallas.md",
     "Locations/Hagga Basin South/Dewgap Gateway.md",
@@ -192,7 +196,6 @@
     "Locations/Eastern Vermilius Gap/The Anvil.md",
     "zzz_attachments/Hagga Basin.png",
     "Trainers.md",
-    "Hagga Basin.md",
     "Locations/Western Vermilius Gap/Northwest Ironworks.md",
     "Locations/Hagga Rift/Riftwatch.md",
     "Uniques/5 - Duraluminum/Steady Assault Boost Module Mk5.md",
@@ -209,13 +212,10 @@
     "Uniques/3 - Steel/Compact Compactor Mk3.md",
     "Uniques/3 - Steel/Bigger Buggy Boot Mk 3.md",
     "Uniques/2 - Iron/Iri's Gauntlet.md",
-    "Uniques/2 - Iron/Buoyant Reaper Mk2.md",
     "Uniques/2 - Iron/Way of the Wanderer.md",
     "Uniques/2 - Iron/Shredder.md",
     "Uniques/2 - Iron/Scipio's Drinker.md",
     "Uniques/2 - Iron/Scipio's Bloodbag.md",
-    "Uniques/2 - Iron/Pseudo Pulse Sword.md",
-    "Uniques/2 - Iron/Olef's Quickcutter.md",
     "zzz_attachments/Iri's Gauntlet.png",
     "zzz_attachments/Hollower Stillsuit.png",
     "zzz_attachments/Hajara Literjon Mk1.png",
