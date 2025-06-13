@@ -3,7 +3,7 @@ tags:
   - location
   - shipwreck
 region: "[[Hagga Rift]]"
-location: [1661, 1513]
+location: [1661, 1514]
 ---
 # Location
 ```leaflet

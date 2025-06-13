@@ -3,7 +3,7 @@ tags:
   - location
   - outpost
 region: "[[Hagga Rift]]"
-location: [2042, 1105.5053]
+location: [1960.3906, 1262.4906]
 ---
 # Location
 ```leaflet
@@ -12,7 +12,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Arctus Cavern]]
+coordinates: [[The Stairway]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -25,4 +25,3 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Inkvine Armor]]

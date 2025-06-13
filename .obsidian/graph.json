@@ -32,7 +32,7 @@
       "query": "tag:#region",
       "color": {
         "a": 1,
-        "rgb": 9115672
+        "rgb": 16768614
       }
     },
     {
@@ -46,7 +46,7 @@
       "query": "tag:#shipwreck",
       "color": {
         "a": 1,
-        "rgb": 3326799
+        "rgb": 1867056
       }
     },
     {
@@ -78,6 +78,20 @@
       }
     },
     {
+      "query": "tag:#harkonen  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#artreides",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
       "query": "path:/",
       "color": {
         "a": 1,
@@ -95,6 +109,6 @@
   "repelStrength": 18.3333333333333,
   "linkStrength": 1,
   "linkDistance": 282,
-  "scale": 0.13168724279835442,
+  "scale": 0.13168724279835448,
   "close": false
 }

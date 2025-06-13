@@ -93,6 +93,42 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "harkonen",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "3ed2-a511",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "artreides",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "443e-13d3",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "tradepost",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "54ae-9f87",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

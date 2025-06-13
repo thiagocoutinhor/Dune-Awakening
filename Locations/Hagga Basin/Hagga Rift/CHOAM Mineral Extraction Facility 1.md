@@ -4,8 +4,8 @@ tags:
   - mining
 region: "[[Hagga Rift]]"
 location:
-  - 1707.8906
-  - 1371.9941
+  - 1708
+  - 1373
 ---
 # Location
 ```leaflet
