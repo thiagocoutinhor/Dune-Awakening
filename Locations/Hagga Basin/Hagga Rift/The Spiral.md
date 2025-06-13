@@ -25,3 +25,4 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
+[[Handheld Life Scanner Mk3]]
