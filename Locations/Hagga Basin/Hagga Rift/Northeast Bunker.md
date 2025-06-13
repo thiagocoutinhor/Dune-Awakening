@@ -1,9 +1,11 @@
 ---
 tags:
   - location
-  - shipwreck
+  - outpost
 region: "[[Hagga Rift]]"
-location: [1661, 1513]
+location:
+  - 2107
+  - 1452.7697
 ---
 # Location
 ```leaflet
@@ -12,7 +14,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Wreck of the Kytheria]]
+coordinates: [[Northeast Bunker]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -25,5 +27,3 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Way of the Lost]]
-[[Karak's Armor]]

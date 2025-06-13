@@ -1,9 +1,9 @@
 ---
 tags:
   - location
-  - shipwreck
+  - mining
 region: "[[Hagga Rift]]"
-location: [1661, 1513]
+location: [2029, 1376]
 ---
 # Location
 ```leaflet
@@ -12,7 +12,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Wreck of the Kytheria]]
+coordinates: [[CHOAM Mineral Extraction Facility 4]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -25,5 +25,3 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Way of the Lost]]
-[[Karak's Armor]]

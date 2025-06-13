@@ -3,6 +3,7 @@ tags:
   - location
   - cavern
 region: "[[Hagga Rift]]"
+location: [1244.8906, 1559.7656]
 ---
 # Location
 ```leaflet
