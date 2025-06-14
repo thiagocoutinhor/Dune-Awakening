@@ -3,7 +3,7 @@ tags:
   - location
   - poi
 region: "[[Jabal Eifrit Al-janub]]"
-location:
+location: [1593.7969, 1283.7727]
 ---
 # Location
 ```leaflet

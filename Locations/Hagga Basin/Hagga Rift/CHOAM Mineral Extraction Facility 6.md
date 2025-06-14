@@ -26,3 +26,4 @@ noUI: true
 ```
 # Loot
 [[Shock-Sword]]
+[[Focused Buggy Cutteray Mk3]]
