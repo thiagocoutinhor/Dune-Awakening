@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - outpost
 region: "[[Jabal Eifrit Al-janub]]"
 location:
 ---
