@@ -1,9 +1,9 @@
 ---
 tags:
   - location
-  - cavern
+  - outpost
 region: "[[Western Vermilius Gap]]"
-location: [1578, 246.2646]
+location: [1582, 245]
 ---
 # Location
 ```leaflet

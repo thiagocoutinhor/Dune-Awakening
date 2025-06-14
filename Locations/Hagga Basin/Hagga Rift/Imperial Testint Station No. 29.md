@@ -25,3 +25,4 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
+[[Kel's Stillsuit]]

@@ -2,14 +2,12 @@
 tags:
   - location
   - tradepost
-region: "[[Eastern Vermilius Gap]]"
+region: "[[Jabal Eifrit Al-gharb]]"
 services:
   - Vendor
   - Contact Board
   - Taxi Service
 location:
-  - 1203.7813
-  - 1227.0097
 ---
 # Location
 ```leaflet
@@ -18,7 +16,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[The Anvil]]
+coordinates: [[Pinnacle Station]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -30,7 +28,7 @@ unit: meters
 markerFolder: Locations
 noUI: true
 ```
-# Loot
-[[Buoyant Reaper Mk2]]
-[[Scipio's Bloodbag]]
-[[Night Rider Sandbike Boost Mk2]]
+# Shop
+[[Seb's Kisser]]
+[[Ripper]]
+[[Bigger Buggy Boot Mk 3]]

@@ -4,8 +4,8 @@ tags:
   - mining
 region: "[[Western Vermilius Gap]]"
 location:
-  - [1568, 202]
-  - [1611, 241]
+  - [1572, 202]
+  - [1614, 241]
 ---
 # Location
 ```leaflet

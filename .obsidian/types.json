@@ -8,7 +8,7 @@
     "fabricators": "multitext",
     "representatives": "multitext",
     "cost": "number",
-    "location": "multitext",
+    "location": "text",
     "lat": "number",
     "long": "number",
     "area": "text"

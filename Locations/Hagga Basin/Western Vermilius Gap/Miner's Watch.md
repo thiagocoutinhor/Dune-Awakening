@@ -3,7 +3,7 @@ tags:
   - location
   - outpost
 region: "[[Western Vermilius Gap]]"
-location: [1514, 196]
+location: [1517, 196]
 ---
 # Location
 ```leaflet

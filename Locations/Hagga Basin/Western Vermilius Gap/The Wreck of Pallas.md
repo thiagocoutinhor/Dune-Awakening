@@ -3,9 +3,7 @@ tags:
   - location
   - shipwreck
 region: "[[Western Vermilius Gap]]"
-location:
-  - 1424
-  - 395
+location: [1428, 394]
 ---
 # Location
 ```leaflet

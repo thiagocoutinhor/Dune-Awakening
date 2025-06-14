@@ -3,7 +3,7 @@ tags:
   - location
   - testing-station
 region: "[[Western Vermilius Gap]]"
-location: [1488, 157]
+location: [1492, 157]
 ---
 # Location
 ```leaflet

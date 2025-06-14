@@ -1,15 +1,11 @@
 ---
 tags:
   - location
-  - tradepost
-region: "[[Eastern Vermilius Gap]]"
-services:
-  - Vendor
-  - Contact Board
-  - Taxi Service
+  - poi
+region: "[[Hagga Rift]]"
 location:
-  - 1203.7813
-  - 1227.0097
+  - 2239.2525
+  - 1122.8787
 ---
 # Location
 ```leaflet
@@ -18,7 +14,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[The Anvil]]
+coordinates: [[Deserter Camp]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -31,6 +27,4 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Buoyant Reaper Mk2]]
-[[Scipio's Bloodbag]]
-[[Night Rider Sandbike Boost Mk2]]
+[[Shock-Sword]]
