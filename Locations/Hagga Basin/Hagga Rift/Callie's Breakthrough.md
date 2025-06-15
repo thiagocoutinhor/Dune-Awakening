@@ -1,9 +1,9 @@
 ---
 tags:
   - location
-  - testing-station
+  - cavern
 region: "[[Hagga Rift]]"
-location: [2213.3906, 1127.5]
+location: [2154.3997, 1030.2546]
 ---
 # Location
 ```leaflet
@@ -12,7 +12,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Imperial Testint Station No. 29]]
+coordinates: [[Callie's Breakthrough]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -25,6 +25,3 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Kel's Stillsuit]]
-[[Compact Compactor Mk3]]
-[[Artisan Disruptor Pistol]]

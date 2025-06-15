@@ -1,9 +1,9 @@
 ---
 tags:
   - location
-  - testing-station
-region: "[[Hagga Rift]]"
-location: [2213.3906, 1127.5]
+  - outpost
+region: "[[Jabal Eifrit Al-janub]]"
+location: [1698.3906, 1210.0037]
 ---
 # Location
 ```leaflet
@@ -12,7 +12,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Imperial Testint Station No. 29]]
+coordinates: [[Kant's Tower]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -25,6 +25,3 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Kel's Stillsuit]]
-[[Compact Compactor Mk3]]
-[[Artisan Disruptor Pistol]]
