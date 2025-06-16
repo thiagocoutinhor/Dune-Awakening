@@ -144,25 +144,6 @@
       "maxZoom": null
     },
     {
-      "type": "Testing Station",
-      "iconName": "map-pin",
-      "color": "#dddddd",
-      "alpha": 1,
-      "layer": false,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": true,
-      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAxFJREFUSEu1VktME2EQnt3lL4+WRwWKEKFWGoEUsAbkYuQROAlq4sVEEg8mevBgwsHEoPFg1Jh4MPGoiQcSTbiYGMFTDSDqwdSE98OALdaAlEex0ApddtfMn/ybbdltOcifNGkz8883M9/M95eDJOd4XXOlLAkXJXm3g+f5So7jreiuKHJIluUZgU/r4wXpzfdvgzNGYTg9AwYWRemJIJg6xNh2JBJeNcWim2RX3KHuaSQdTFnZojmnIEZMGWZJivURItzSA9oDUO5uu8ZxyvPt6J+t9SWfJRpeS1YkZOXkw6Fix1ZGVq5FUbjr8yOeF9oLcQCO6sYHAiF31hZ/iKFlHzGK7DjRRk2+UY/qYi1yiPklx4gkig99Ex/vMoMKwDIP/pyG8NqiYdaupstQ3dQJfc+uQmRjOc4vJ78EbGVVoK2EAlAyZWE6VeYNF7oAs8fMv759qpsEq4TnpSrkhAI4as+8E3f+Nv+a9VqMUrcdrYGWK4+peWLoFUwOvTas8khF/RZJzxz0jQ2f41j2i/MjkIxQDI4g2BZsD7bKP/phT5sQFYkvKXcDVsE53a3dorjdvTD52ZyMVGwPnoGe21Bor6E8MDC9e3bX6QghGY84R23Tl83Q7/rVwGzc1FiLnRBamqN3GbFB/zgFuHSvX42pRzYaC0orxGzrYS9X7m5ZXwnMWrWTwwsE6s7egGh4Bea8/eCsb4foRpCSi21yNXaCOc8G5rwiCojAiQcnqrC0IsQ5T7Yqif3PtdlpUPwEpj5RkKB/LC4Gq8oIgPGgC8AiMRCO5ynInPc9KLJEzTiuyEtKAL0WaVMtLKsG56l2KHM1wtRwL4wP9FAzm6re++26s6G2yIhk7S1TpoW2yzfiAV5Ig4bzXZSLZPugkryfMWVg2mVjE2U02uqY7nfRMBCTCvyOUqEVOy1Q3KIlkwq2XOwyU1H8jUsWXBgH/6hnz5jGSQU664kdznjHzZeGesMMiZXoih06J8o1AtjsNSkBsAom24ZyrbZgnw+OHmrKB4ddOtAnk4Ec6KOvLf9//G35B+ox8aa661Z2AAAAAElFTkSuQmCC",
-      "tags": [
-        "testing-station"
-      ],
-      "minZoom": null,
-      "maxZoom": null
-    },
-    {
       "type": "tradepost",
       "iconName": "map-pin",
       "color": "#dddddd",
@@ -177,6 +158,25 @@
       "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAzNJREFUSEutVl1IU2EYfr9ztiluDjdRJ1iZhPm/RX+IBqMSImZJc+VF0LrKC3FlBGIEdVEEQTSzi66yi6Bo2t+IoB8MM+kPN/8yKbUSnIYuxia68/PFd8ZZm5wdzfxuNvg+nud5n+f93u8gkFkN1tICmqYPLYY5i4KmCmgK6chxjsd+luNHklS0m+O4zraOgZFEMIhsOGxlm533+7+Ihwgww+AryUkKSyAUDo1PBVQz/nnl/AIrHElJVkCmLoXZmK0Na9Uq9cIi61Yq0ZlYIrs9Nzl1WqGKEFiNDRigGQB6gAYeYVTnm5sPvhvyaSZ8AbkiIdeghZ3FhqBBn6JBGN/gAUKAoRIQFLa6vHqB4JTVWMwBDLI8D0oFDb1DU8z74WmlLPKSzR1FWUx5cbaSZbkwTVFEeaezw2sVCIQqao2zgJD++YcfMDwx9y/Y0bNFuXqo2r4eAOMwYDjt7PC2CQRCmBT9WU653VIKdkuZAHb5di886x2TFCFWAhhXO11et0Bw4kDJk9+hsPney1FNIunNx8phX3nesgTkwJE9+cE0tarr5uPBaiSqf9Q9BnKBXmvaC4b0CL9ndFqoItEiwR/clQcczxUix2FTSyAYbrn1dFgtZzypQAQlZCevvpDN6fj+opBWo7qE6mtK345892/r6ptM2DWGdDXcvVgTB2iuvyNLYN6SwxRs0H1EDVbj3KtPP3VynWPKzwKiOnbVnX0IvtlQQhLSUbu3rvMjh82El/M/toNERGIRyWK5HGQJiHJTfiZEfrPisEib+maD4BmdkSQSg05okZTvUmpJFVKBRy1KFLKULaIlpF2JAHFJ5RENOVGbxl4sAkQsiW3TWMva3f3Q7h6IKzDaplIXjai71lS1xPNvUZDYSxdbhfg/7qKtdFTINv2SzbhRQfZWMuxWSiAOOzImyAMUHdeNNpMHARjXYlxjjMdbXV5hMv4lsBoDLIc5pZJK+58Hh2G5SQVF5WCeMl9/0PdaIGi0GSuBh27BBgS/EEIZq3kyAcNXjPGmCA660OrynI8Q1BrPAQ8ZgOANTUEPw/Opq330HdaSMh6oCoRRRWun92jUIqkQ1+Kz5Q/W/NUK3ungUAAAAABJRU5ErkJggg==",
       "tags": [
         "tradepost"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Testing Stastion",
+      "iconName": "map-pin",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAxFJREFUSEu1VktME2EQnt3lL4+WRwWKEKFWGoEUsAbkYuQROAlq4sVEEg8mevBgwsHEoPFg1Jh4MPGoiQcSTbiYGMFTDSDqwdSE98OALdaAlEex0ApddtfMn/ybbdltOcifNGkz8883M9/M95eDJOd4XXOlLAkXJXm3g+f5So7jreiuKHJIluUZgU/r4wXpzfdvgzNGYTg9AwYWRemJIJg6xNh2JBJeNcWim2RX3KHuaSQdTFnZojmnIEZMGWZJivURItzSA9oDUO5uu8ZxyvPt6J+t9SWfJRpeS1YkZOXkw6Fix1ZGVq5FUbjr8yOeF9oLcQCO6sYHAiF31hZ/iKFlHzGK7DjRRk2+UY/qYi1yiPklx4gkig99Ex/vMoMKwDIP/pyG8NqiYdaupstQ3dQJfc+uQmRjOc4vJ78EbGVVoK2EAlAyZWE6VeYNF7oAs8fMv759qpsEq4TnpSrkhAI4as+8E3f+Nv+a9VqMUrcdrYGWK4+peWLoFUwOvTas8khF/RZJzxz0jQ2f41j2i/MjkIxQDI4g2BZsD7bKP/phT5sQFYkvKXcDVsE53a3dorjdvTD52ZyMVGwPnoGe21Bor6E8MDC9e3bX6QghGY84R23Tl83Q7/rVwGzc1FiLnRBamqN3GbFB/zgFuHSvX42pRzYaC0orxGzrYS9X7m5ZXwnMWrWTwwsE6s7egGh4Bea8/eCsb4foRpCSi21yNXaCOc8G5rwiCojAiQcnqrC0IsQ5T7Yqif3PtdlpUPwEpj5RkKB/LC4Gq8oIgPGgC8AiMRCO5ynInPc9KLJEzTiuyEtKAL0WaVMtLKsG56l2KHM1wtRwL4wP9FAzm6re++26s6G2yIhk7S1TpoW2yzfiAV5Ig4bzXZSLZPugkryfMWVg2mVjE2U02uqY7nfRMBCTCvyOUqEVOy1Q3KIlkwq2XOwyU1H8jUsWXBgH/6hnz5jGSQU664kdznjHzZeGesMMiZXoih06J8o1AtjsNSkBsAom24ZyrbZgnw+OHmrKB4ddOtAnk4Ec6KOvLf9//G35B+ox8aa661Z2AAAAAElFTkSuQmCC",
+      "tags": [
+        "testing-station"
       ],
       "minZoom": null,
       "maxZoom": null

@@ -1,15 +1,15 @@
 ---
 tags:
-  - vehicle
-  - ornitopter
+  - equipment
+  - weapon
   - unique
-type: 
-tier: Duraluminum
+type: Rifle
+tier: Steel
 fabricators:
-  - Vehicle
-cost: 55000
+  - Weapons
+cost:
 ---
-![[Albatross Wing Module Mk5.png]]
+![[Zaal's Companion.png]]
 # Found In
 ```dataview
 table

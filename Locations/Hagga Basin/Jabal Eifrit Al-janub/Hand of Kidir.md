@@ -1,21 +1,18 @@
 ---
 tags:
   - location
-  - testing-station
-region: "[[Hagga Basin South]]"
-location:
-  - 372
-  - 906.0795
+  - poi
+region: "[[Jabal Eifrit Al-janub]]"
+location: [1742.7969, 1092.7599]
 ---
 # Location
-
 ```leaflet
 id: hagga-basin
 image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Imperial Testing Station No. 2]]
+coordinates: [[Hand of Kidir]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -27,6 +24,4 @@ unit: meters
 markerFolder: Locations
 noUI: true
 ```
-
 # Loot
-[[The Emperor's Wings]]

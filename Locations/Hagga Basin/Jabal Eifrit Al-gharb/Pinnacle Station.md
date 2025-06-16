@@ -7,7 +7,7 @@ services:
   - Vendor
   - Contact Board
   - Taxi Service
-location:
+location: [2296.8906, 429.5]
 ---
 # Location
 ```leaflet

@@ -1,21 +1,18 @@
 ---
 tags:
   - location
-  - testing-station
-region: "[[Hagga Basin South]]"
-location:
-  - 372
-  - 906.0795
+  - outpost
+region: "[[Jabal Eifrit Al-gharb]]"
+location: [1876.3906, 584.5003]
 ---
 # Location
-
 ```leaflet
 id: hagga-basin
 image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Imperial Testing Station No. 2]]
+coordinates: [[Piter's Nest]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -27,6 +24,4 @@ unit: meters
 markerFolder: Locations
 noUI: true
 ```
-
 # Loot
-[[The Emperor's Wings]]
