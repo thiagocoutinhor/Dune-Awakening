@@ -2,8 +2,11 @@
 tags:
   - location
   - testing-station
+  - star-chest
 region: "[[Western Vermilius Gap]]"
-location: [973, 386.25]
+location:
+  - 973
+  - 386.25
 ---
 # Location
 ```leaflet

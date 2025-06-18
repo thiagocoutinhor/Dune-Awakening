@@ -2,6 +2,7 @@
 tags:
   - location
   - cavern
+  - star-chest
 region: "[[Jabal Eifrit Al-sharq]]"
 location:
 ---

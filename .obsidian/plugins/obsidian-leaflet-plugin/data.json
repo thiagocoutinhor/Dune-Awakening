@@ -180,6 +180,22 @@
       ],
       "minZoom": null,
       "maxZoom": null
+    },
+    {
+      "type": "star-chest",
+      "iconName": "star-half",
+      "color": "#a600ff",
+      "alpha": 0.66,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",

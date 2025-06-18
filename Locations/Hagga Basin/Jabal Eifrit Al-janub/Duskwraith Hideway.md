@@ -1,12 +1,9 @@
 ---
 tags:
   - location
-  - outpost
-  - star-chest
-region: "[[Western Vermilius Gap]]"
-location:
-  - 1517
-  - 196
+  - cavern
+region: "[[Jabal Eifrit Al-sharq]]"
+location: [1567.8906, 967.5169]
 ---
 # Location
 ```leaflet
@@ -15,7 +12,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Miner's Watch]]
+coordinates: [[Duskwraith Hideway]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -28,5 +25,3 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Pseudo Pulse Sword]]
-[[Mendia's Armor]]

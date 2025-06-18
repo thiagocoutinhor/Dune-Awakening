@@ -2,6 +2,7 @@
 tags:
   - location
   - shipwreck
+  - star-chest
 region: "[[Jabal Eifrit Al-sharq]]"
 location:
 ---

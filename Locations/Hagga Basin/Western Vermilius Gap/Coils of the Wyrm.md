@@ -2,10 +2,13 @@
 tags:
   - location
   - cavern
+  - star-chest
 region: "[[Western Vermilius Gap]]"
-location: 
-  - [1130.8906, 114]
-  - [1152.4375, 66.7336]
+location:
+  - - 1130.8906
+    - 114
+  - - 1152.4375
+    - 66.7336
 ---
 # Location
 ```leaflet

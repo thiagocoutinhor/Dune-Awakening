@@ -2,10 +2,13 @@
 tags:
   - location
   - mining
+  - star-chest
 region: "[[Western Vermilius Gap]]"
 location:
-  - [1572, 202]
-  - [1614, 241]
+  - - 1572
+    - 202
+  - - 1614
+    - 241
 ---
 # Location
 ```leaflet

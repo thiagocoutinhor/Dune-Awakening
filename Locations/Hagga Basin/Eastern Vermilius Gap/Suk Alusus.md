@@ -4,9 +4,9 @@ tags:
   - cavern
   - star-chest
 region: "[[Eastern Vermilius Gap]]"
-location:
-  - 1188.7813
-  - 863.0162
+location: [1188.7813, 863.0162]
+mapmarkers:
+  - [star-chest, [1186.7813, 863.0162]]
 ---
 # Location
 ```leaflet
