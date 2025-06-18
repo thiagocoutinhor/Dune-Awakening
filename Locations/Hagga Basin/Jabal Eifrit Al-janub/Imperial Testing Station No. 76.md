@@ -2,8 +2,11 @@
 tags:
   - location
   - testing-station
+  - star-chest
 region: "[[Jabal Eifrit Al-janub]]"
-location: [1905.2969, 815.0692]
+location:
+  - 1905.2969
+  - 815.0692
 ---
 # Location
 ```leaflet
@@ -25,3 +28,4 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
+[[Reaper Gloves]]

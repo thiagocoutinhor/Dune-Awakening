@@ -3,7 +3,7 @@ tags:
   - location
   - outpost
   - star-chest
-region: "[[Jabal Eifrit Al-gharb]]"
+region: "[[Jabal Eifrit Al-janub]]"
 location:
   - 1668.7969
   - 1053.7573
@@ -29,3 +29,4 @@ noUI: true
 ```
 # Loot
 [[Handheld Life Scanner Mk3]]
+[[Inkvine Armor]]
