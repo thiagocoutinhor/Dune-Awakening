@@ -4,9 +4,9 @@ tags:
   - shipwreck
   - star-chest
 region: "[[Western Vermilius Gap]]"
-location:
-  - 1428
-  - 394
+location: [1428, 394]
+mapmarkers:
+  - [star-chest, [1426, 394]]
 ---
 # Location
 ```leaflet

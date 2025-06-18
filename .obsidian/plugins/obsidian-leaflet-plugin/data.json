@@ -183,9 +183,9 @@
     },
     {
       "type": "star-chest",
-      "iconName": "star",
+      "iconName": "circle-notch",
       "color": "#a600ff",
-      "alpha": 0.4,
+      "alpha": 0.85,
       "layer": false,
       "transform": {
         "size": 6,

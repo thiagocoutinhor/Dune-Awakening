@@ -5,10 +5,11 @@ tags:
   - star-chest
 region: "[[Western Vermilius Gap]]"
 location:
-  - - 1130.8906
-    - 114
-  - - 1152.4375
-    - 66.7336
+  - [1130.8906, 114]
+  - [1152.4375, 66.7336]
+mapmarkers:
+  - [star-chest, [1128.8906, 114]]
+  - [star-chest, [1150.4375, 66.7336]]
 ---
 # Location
 ```leaflet
