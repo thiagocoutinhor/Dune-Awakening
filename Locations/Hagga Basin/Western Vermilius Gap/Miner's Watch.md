@@ -7,6 +7,8 @@ region: "[[Western Vermilius Gap]]"
 location:
   - 1517
   - 196
+mapmarkers:
+  - [star-chest, [1514, 196]]
 ---
 # Location
 ```leaflet

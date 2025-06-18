@@ -1,12 +1,10 @@
 ---
 tags:
   - location
-  - shipwreck
+  - mining
   - star-chest
-region: "[[Western Vermilius Gap]]"
-location: [1428, 394]
-mapmarkers:
-  - [star-chest, [1425, 394]]
+region: "[[Eastern Shield Wall]]"
+location:
 ---
 # Location
 ```leaflet
@@ -15,7 +13,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[The Wreck of Pallas]]
+coordinates: [[Sentinel City]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -28,5 +26,4 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Legion Tatoo]]
-[[Way of the Wanderer]]
+[[House Burst Drillshot]]
