@@ -7,8 +7,8 @@ tier: Copper
 # Found In
 ```dataview
 table
-from #region 
-where contains(file.outlinks, this.file.link)
+from #region AND -"zzz_templates"
+where contains(file.outlinks, this.file.link) 
 ```
 # Used In
 ```dataview

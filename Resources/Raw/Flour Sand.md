@@ -1,8 +1,7 @@
 ---
 tags:
   - resource
-  - raw
-tier: Copper
+tier:
 ---
 # Found In
 ```dataview

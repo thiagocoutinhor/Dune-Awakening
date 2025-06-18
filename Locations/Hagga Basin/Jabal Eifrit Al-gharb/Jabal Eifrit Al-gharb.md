@@ -1,3 +1,8 @@
+---
+tags:
+  - region
+---
+
 # Map
 ```leaflet
 id: hagga-basin
@@ -41,6 +46,7 @@ dv.table([
 - [[Salvaged Metal]]
 - [[Fuel Cell]]
 - [[Carbon Ore]]
+- [[Copper Ore]]
 - [[Aluminum Ore]]
 # Locations
 ```dataview

@@ -1,5 +1,6 @@
 ---
 tags:
   - resource
+  - refined
 tier:
 ---

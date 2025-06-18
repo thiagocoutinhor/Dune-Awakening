@@ -1,3 +1,8 @@
+---
+tags:
+  - region
+---
+
 # Map
 ```leaflet
 id: hagga-basin
@@ -40,6 +45,9 @@ dv.table([
 - [[Granite Stone]]
 - [[Salvaged Metal]]
 - [[Fuel Cell]]
+- [[Copper Ore]]
+- [[Carbon Ore]]
+- [[Aluminum Ore]]
 # Locations
 ```dataview
 table replace(join(tags), "location, ", "") as Tipo

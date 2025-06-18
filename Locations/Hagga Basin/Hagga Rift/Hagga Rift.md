@@ -44,6 +44,7 @@ dv.table([
 - [[Granite Stone]]
 - [[Salvaged Metal]]
 - [[Fuel Cell]]
+- [[Copper Ore]]
 - [[Erythrite Crystal]]
 - [[Carbon Ore]]
 # Locations
