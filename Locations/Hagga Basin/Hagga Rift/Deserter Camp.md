@@ -2,6 +2,7 @@
 tags:
   - location
   - poi
+  - star-chest
 region: "[[Hagga Rift]]"
 location:
   - 2239.2525

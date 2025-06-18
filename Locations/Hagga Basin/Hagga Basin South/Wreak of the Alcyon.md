@@ -2,8 +2,11 @@
 tags:
   - location
   - shipwreck
+  - star-chest
 region: "[[Hagga Basin South]]"
-location: [365, 1194]
+location:
+  - 365
+  - 1194
 ---
 # Location
 ```leaflet

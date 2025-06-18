@@ -2,8 +2,11 @@
 tags:
   - location
   - testing-station
+  - star-chest
 region: "[[Hagga Rift]]"
-location: [2213.3906, 1127.5]
+location:
+  - 2213.3906
+  - 1127.5
 ---
 # Location
 ```leaflet

@@ -2,8 +2,11 @@
 tags:
   - location
   - outpost
+  - star-chest
 region: "[[Hagga Rift]]"
-location: [2035.3906, 1279.0001]
+location:
+  - 2035.3906
+  - 1279.0001
 ---
 # Location
 ```leaflet

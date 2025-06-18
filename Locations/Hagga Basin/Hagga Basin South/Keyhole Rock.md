@@ -2,8 +2,11 @@
 tags:
   - location
   - outpost
+  - star-chest
 region: "[[Hagga Basin South]]"
-location: [168, 978.4997]
+location:
+  - 168
+  - 978.4997
 ---
 # Location
 ```leaflet

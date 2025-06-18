@@ -2,8 +2,11 @@
 tags:
   - location
   - poi
+  - star-chest
 region: "[[Jabal Eifrit Al-janub]]"
-location: [1742.7969, 1092.7599]
+location:
+  - 1742.7969
+  - 1092.7599
 ---
 # Location
 ```leaflet
@@ -25,3 +28,4 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
+[[Shock Gauntlets]]

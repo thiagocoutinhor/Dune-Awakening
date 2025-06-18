@@ -19,5 +19,8 @@
   "supercharged-links@@c-0dff-e2d6-use-background": false,
   "supercharged-links@@54ae-9f87-color": "#9C9768",
   "supercharged-links@@c-54ae-9f87-use-background": true,
-  "supercharged-links@@54ae-9f87-weight": "bold"
+  "supercharged-links@@54ae-9f87-weight": "bold",
+  "supercharged-links@@c-8a78-1907-use-background": false,
+  "supercharged-links@@8a78-1907-background-color": "#622069",
+  "supercharged-links@@8a78-1907-after": "⭐"
 }

@@ -2,8 +2,11 @@
 tags:
   - location
   - mining
+  - star-chest
 region: "[[Hagga Rift]]"
-location: [1999.3906, 964]
+location:
+  - 1999.3906
+  - 964
 ---
 # Location
 ```leaflet

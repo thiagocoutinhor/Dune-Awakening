@@ -2,8 +2,11 @@
 tags:
   - location
   - cavern
+  - star-chest
 region: "[[Hagga Basin South]]"
-location: [406, 640]
+location:
+  - 406
+  - 640
 ---
 # Location
 ```leaflet

@@ -2,8 +2,11 @@
 tags:
   - location
   - poi
+  - star-chest
 region: "[[Hagga Basin South]]"
-location: [446, 1121.016]
+location:
+  - 446
+  - 1121.016
 ---
 # Location
 ```leaflet

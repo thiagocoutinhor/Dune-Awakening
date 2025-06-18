@@ -109,7 +109,7 @@
     {
       "type": "tag",
       "name": "",
-      "value": "artreides",
+      "value": "atreides",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "443e-13d3",
@@ -126,6 +126,18 @@
       "match": "exact",
       "uid": "54ae-9f87",
       "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "star-chest",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8a78-1907",
+      "selectText": false,
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true

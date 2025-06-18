@@ -11,6 +11,7 @@
     "location": "text",
     "lat": "number",
     "long": "number",
-    "area": "text"
+    "area": "text",
+    "recipe": "multitext"
   }
 }

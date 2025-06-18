@@ -2,6 +2,7 @@
 tags:
   - location
   - testing-station
+  - star-chest
 region: "[[Hagga Basin South]]"
 location:
   - 372

@@ -2,8 +2,11 @@
 tags:
   - location
   - shipwreck
+  - star-chest
 region: "[[Hagga Rift]]"
-location: [1661, 1514]
+location:
+  - 1661
+  - 1514
 ---
 # Location
 ```leaflet

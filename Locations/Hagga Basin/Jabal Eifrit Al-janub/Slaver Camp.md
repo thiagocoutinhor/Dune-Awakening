@@ -2,8 +2,11 @@
 tags:
   - location
   - poi
+  - star-chest
 region: "[[Jabal Eifrit Al-janub]]"
-location: [1593.7969, 1283.7727]
+location:
+  - 1593.7969
+  - 1283.7727
 ---
 # Location
 ```leaflet

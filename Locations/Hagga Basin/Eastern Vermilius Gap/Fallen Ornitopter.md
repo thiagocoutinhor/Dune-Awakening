@@ -2,8 +2,11 @@
 tags:
   - location
   - poi
+  - star-chest
 region: "[[Eastern Vermilius Gap]]"
-location: [1165.7813, 838.4536]
+location:
+  - 1165.7813
+  - 838.4536
 ---
 # Location
 ```leaflet

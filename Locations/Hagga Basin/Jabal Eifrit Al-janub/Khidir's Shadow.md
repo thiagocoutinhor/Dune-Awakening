@@ -2,8 +2,11 @@
 tags:
   - location
   - outpost
+  - star-chest
 region: "[[Jabal Eifrit Al-gharb]]"
-location: [1668.7969, 1053.7573]
+location:
+  - 1668.7969
+  - 1053.7573
 ---
 # Location
 ```leaflet
