@@ -2,7 +2,7 @@
 tags:
   - resource
   - refined
-tier:
+tier: Steel
 ---
 12x Water
 34x [[Fuel Cell]]

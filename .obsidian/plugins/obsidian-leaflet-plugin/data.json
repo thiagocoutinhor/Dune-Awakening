@@ -183,9 +183,9 @@
     },
     {
       "type": "star-chest",
-      "iconName": "star-half",
+      "iconName": "star",
       "color": "#a600ff",
-      "alpha": 0.66,
+      "alpha": 0.4,
       "layer": false,
       "transform": {
         "size": 6,

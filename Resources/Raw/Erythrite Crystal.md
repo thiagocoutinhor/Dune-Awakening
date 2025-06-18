@@ -2,7 +2,7 @@
 tags:
   - resource
   - raw
-tier:
+tier: Steel
 ---
 # Found In
 ```dataview

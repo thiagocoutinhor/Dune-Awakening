@@ -2,7 +2,8 @@
 tags:
   - equipment
   - armor
-type: 
+  - unique
+type: Light Armor
 tier: Steel
 fabricators:
   - Garment
