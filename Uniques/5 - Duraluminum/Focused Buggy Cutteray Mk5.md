@@ -2,6 +2,7 @@
 tags:
   - vehicle
   - buggy
+  - unique
 type: Turret
 tier: Duraluminum
 fabricators:
