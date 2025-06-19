@@ -7,6 +7,8 @@ region: "[[Hagga Basin South]]"
 location:
   - 365
   - 1194
+mapmarkers:
+  - [star-chest, [362, 1194]]
 ---
 # Location
 ```leaflet

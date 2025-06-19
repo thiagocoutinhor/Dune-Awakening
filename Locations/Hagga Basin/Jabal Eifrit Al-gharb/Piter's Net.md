@@ -7,6 +7,8 @@ region: "[[Jabal Eifrit Al-gharb]]"
 location:
   - 1876.3906
   - 584.5003
+mapmarkers:
+  - [star-chest, [1873, 584]]
 ---
 # Location
 ```leaflet

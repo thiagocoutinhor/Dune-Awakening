@@ -6,7 +6,9 @@ tags:
 region: "[[Hagga Basin South]]"
 location:
   - 372
-  - 906.0795
+  - 906
+mapmarkers:
+  - [star-chest, [369, 906]]
 ---
 # Location
 

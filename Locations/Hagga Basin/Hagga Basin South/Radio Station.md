@@ -5,8 +5,10 @@ tags:
   - star-chest
 region: "[[Hagga Basin South]]"
 location:
-  - 214.5
-  - 1262.0006
+  - 214
+  - 1262
+mapmarkers:
+  - [star-chest, [211, 1262]]
 ---
 # Location
 ```leaflet
