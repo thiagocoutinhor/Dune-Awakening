@@ -1,7 +1,7 @@
 ---
 tags:
   - location
-  - mining
+  - poi
   - star-chest
 region: "[[Eastern Shield Wall]]"
 location:
@@ -13,7 +13,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Sentinel City]]
+coordinates: [[Fangs of Maraqeb]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -26,5 +26,4 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[House Burst Drillshot]]
-[[Poison Mist]]
+[[Power Gauntlets]]
