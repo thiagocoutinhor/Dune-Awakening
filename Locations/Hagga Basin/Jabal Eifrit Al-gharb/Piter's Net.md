@@ -2,8 +2,11 @@
 tags:
   - location
   - outpost
+  - star-chest
 region: "[[Jabal Eifrit Al-gharb]]"
-location: [1876.3906, 584.5003]
+location:
+  - 1876.3906
+  - 584.5003
 ---
 # Location
 ```leaflet
@@ -12,7 +15,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Piter's Nest]]
+coordinates: [[Piter's Net]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -25,3 +28,4 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
+[[Karak's Armor]]
