@@ -27,3 +27,4 @@ noUI: true
 ```
 # Loot
 [[Zaal's Companion]]
+[[Karak's Armor]]

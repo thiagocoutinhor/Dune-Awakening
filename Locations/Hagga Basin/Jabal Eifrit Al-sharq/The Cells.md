@@ -1,8 +1,7 @@
 ---
 tags:
   - location
-  - cavern
-  - star-chest
+  - outpost
 region: "[[Jabal Eifrit Al-sharq]]"
 location:
 ---
@@ -13,7 +12,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Kel's Fallback]]
+coordinates: [[The Cells]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -26,5 +25,3 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Shock-Sword]]
-[[Callie's Breaker]]
