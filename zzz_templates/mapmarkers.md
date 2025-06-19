@@ -1,0 +1,2 @@
+mapmarkers:
+  - [star-chest, []]

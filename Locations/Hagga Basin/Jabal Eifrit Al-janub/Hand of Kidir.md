@@ -5,8 +5,10 @@ tags:
   - star-chest
 region: "[[Jabal Eifrit Al-janub]]"
 location:
-  - 1742.7969
-  - 1092.7599
+  - 1742
+  - 1092
+mapmarkers:
+  - [star-chest, [1739, 1092]]
 ---
 # Location
 ```leaflet

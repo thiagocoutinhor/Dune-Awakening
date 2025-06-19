@@ -8,7 +8,10 @@ location:
   - - 1247
     - 1177
   - - 1228
-    - 1214.5155
+    - 1214
+mapmarkers:
+  - [star-chest, [1244, 1177]]
+  - [star-chest, [1225, 1214]]
 ---
 # Location
 ```leaflet

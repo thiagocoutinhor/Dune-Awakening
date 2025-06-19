@@ -9,6 +9,8 @@ location:
     - 202
   - - 1614
     - 241
+mapmarkers:
+  - [star-chest, [1569, 202]]
 ---
 # Location
 ```leaflet
