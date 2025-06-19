@@ -1,0 +1,36 @@
+---
+tags:
+  - location
+  - cavern
+  - star-chest
+region: "[[Vermilius Gap - Eastern]]"
+location:
+  - 1188.7813
+  - 863.0162
+mapmarkers:
+  - - star-chest
+    - - 1186.7813
+      - 863.0162
+---
+# Location
+```leaflet
+id: hagga-basin
+image: [[Hagga Basin.png]]
+bounds:
+  - [0, -625]
+  - [3000, 1875]
+coordinates: [[Suk Alusus]]
+defaultZoom: 0
+zoomDelta: 0.5
+minZoom: -2
+maxZoom: 1
+width: 250px
+height: 250px
+scale: 2.81
+unit: meters
+markerFolder: Locations
+noUI: true
+```
+# Loot
+[[Shredder]]
+[[Oathbreaker Armor]]

@@ -22,5 +22,5 @@ markerFolder: Locations
 # Regions
 ```dataview
 table
-from #region
+from #region and -"zzz_templates"
 ```
