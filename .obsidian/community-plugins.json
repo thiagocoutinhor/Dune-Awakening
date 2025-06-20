@@ -9,5 +9,6 @@
   "open-vscode",
   "obsidian-hover-editor",
   "obsidian-git",
-  "callout-manager"
+  "callout-manager",
+  "obsidian-meta-bind-plugin"
 ]

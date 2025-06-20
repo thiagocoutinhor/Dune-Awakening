@@ -31,3 +31,4 @@ noUI: true
 ```
 # Loot
 [[Callie's Breaker]]
+[[Old Sparky Mk 3]]

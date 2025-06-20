@@ -5,8 +5,10 @@ tags:
   - star-chest
 region: "[[Hagga Rift]]"
 location:
-  - 2213.3906
-  - 1127.5
+  - 2213
+  - 1127
+mapmarkers:
+  - [star-chest, [2213, 1127]]
 ---
 # Location
 ```leaflet
