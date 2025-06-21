@@ -31,3 +31,5 @@ noUI: true
 ```
 # Loot
 [[Karak's Armor]]
+[[Searing Shiv]]
+[[Way of the Lost]]

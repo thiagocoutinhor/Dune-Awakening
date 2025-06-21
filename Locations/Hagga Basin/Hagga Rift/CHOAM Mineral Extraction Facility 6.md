@@ -32,3 +32,4 @@ noUI: true
 # Loot
 [[Shock-Sword]]
 [[Focused Buggy Cutteray Mk3]]
+[[Old Sparky Mk 3]]
