@@ -31,3 +31,4 @@ noUI: true
 ```
 # Loot
 [[Shock Gauntlets]]
+[[Filter Extractor Mk3]]

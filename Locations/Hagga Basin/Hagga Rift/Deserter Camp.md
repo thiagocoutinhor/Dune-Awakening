@@ -32,3 +32,4 @@ noUI: true
 # Loot
 [[Shock-Sword]]
 [[Glutton's Drinker]]
+[[Seb's Kisser]]

@@ -1,10 +1,8 @@
 ---
 tags:
   - location
-  - tradepost
-region:
-services:
-trainers:
+  - cavern
+region: "[[Shield Wall - Eastern]]"
 location:
 ---
 # Location
@@ -14,7 +12,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[<%tp.file.title%>]]
+coordinates: [[Shadrath's Tomb]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -26,4 +24,4 @@ unit: meters
 markerFolder: Locations
 noUI: true
 ```
-# Shop
+# Loot

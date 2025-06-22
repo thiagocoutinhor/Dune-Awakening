@@ -1,15 +1,15 @@
 ---
 tags:
   - equipment
-  - weapon
+  - area
   - unique
-type: Rifle
-tier: Steel
+type: 
+tier: Aluminum
 fabricators:
-  - Weapons
-cost: 12500
+  - Garment
+cost: 26000
 ---
-![[Ripper.png]]
+![[Sentinel Gauntlets.png]]
 # Found In
 ```dataview
 table

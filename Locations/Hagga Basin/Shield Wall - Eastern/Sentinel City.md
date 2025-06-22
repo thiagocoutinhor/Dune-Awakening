@@ -4,7 +4,9 @@ tags:
   - mining
   - star-chest
 region: "[[Shield Wall - Eastern]]"
-location: 
+location: [2286, 95]
+mapmarkers:
+  - [star-chest, [2283, 95]]
 ---
 # Location
 ```leaflet

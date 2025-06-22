@@ -1,10 +1,11 @@
 ---
 tags:
   - location
-  - shipwreck
-  - star-chest
-region: "[[Jabal Eifrit Al-sharq]]"
-location: [2175, 1256]
+  - trial
+region: "[[Hagga Rift]]"
+location:
+  - 2063
+  - 1016
 ---
 # Location
 ```leaflet
@@ -13,7 +14,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Wreck of the Tisiphone]]
+coordinates: [[Te Red Maw]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -26,5 +27,3 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Zaal's Companion]]
-[[Karak's Armor]]

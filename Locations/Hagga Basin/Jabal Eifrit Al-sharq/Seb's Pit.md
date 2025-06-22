@@ -3,7 +3,7 @@ tags:
   - location
   - cavern
 region: "[[Jabal Eifrit Al-sharq]]"
-location:
+location: [2150, 1583]
 ---
 # Location
 ```leaflet

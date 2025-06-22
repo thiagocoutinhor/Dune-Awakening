@@ -1,15 +1,14 @@
 ---
 tags:
   - equipment
-  - weapon
+  - utility
   - unique
-type: Rifle
+type: Blood Extractor
 tier: Steel
 fabricators:
-  - Weapons
-cost: 12500
+  - Survival
+cost:
 ---
-![[Ripper.png]]
 # Found In
 ```dataview
 table

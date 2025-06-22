@@ -3,7 +3,7 @@ tags:
   - location
   - trial
 region: "[[Jabal Eifrit Al-sharq]]"
-location:
+location: [2353, 1707]
 ---
 # Location
 ```leaflet

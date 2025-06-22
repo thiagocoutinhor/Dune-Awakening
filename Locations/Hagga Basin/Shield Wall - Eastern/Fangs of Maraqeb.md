@@ -4,7 +4,9 @@ tags:
   - poi
   - star-chest
 region: "[[Shield Wall - Eastern]]"
-location: 
+location: [2302, 86]
+mapmarkers:
+  - [star-chest, [2300, 86]]
 ---
 # Location
 ```leaflet

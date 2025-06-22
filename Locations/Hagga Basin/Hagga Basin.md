@@ -24,3 +24,15 @@ markerFolder: Locations
 table
 from #region and -"zzz_templates"
 ```
+# Star Chests
+```dataview
+table region
+from #location and #star-chest 
+sort region
+```
+# All Locations
+```dataview
+table region
+from #location and "Locations/Hagga Basin"
+sort region
+```

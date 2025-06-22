@@ -1,10 +1,9 @@
 ---
 tags:
   - location
-  - shipwreck
-  - star-chest
-region: "[[Jabal Eifrit Al-sharq]]"
-location: [2175, 1256]
+  - tradepost
+region: "[[Mysa Tarill]]"
+location:
 ---
 # Location
 ```leaflet
@@ -13,7 +12,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Wreck of the Tisiphone]]
+coordinates: [[The Crossroads Tradepost]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -25,6 +24,7 @@ unit: meters
 markerFolder: Locations
 noUI: true
 ```
-# Loot
-[[Zaal's Companion]]
-[[Karak's Armor]]
+# Shop
+[[Sentinel Armor|Sentinel Helmet]]
+[[Shadrath's Stillsuit|Shadrath's Stillsuit]]
+[[Old Sparky Mk4]]

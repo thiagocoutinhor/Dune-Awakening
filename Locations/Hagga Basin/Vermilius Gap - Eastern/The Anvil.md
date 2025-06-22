@@ -3,10 +3,6 @@ tags:
   - location
   - tradepost
 region: "[[Vermilius Gap - Eastern]]"
-services:
-  - Vendor
-  - Contact Board
-  - Taxi Service
 location:
   - 1203.7813
   - 1227.0097

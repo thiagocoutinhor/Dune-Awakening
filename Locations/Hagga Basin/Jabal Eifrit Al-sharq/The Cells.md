@@ -3,7 +3,7 @@ tags:
   - location
   - outpost
 region: "[[Jabal Eifrit Al-sharq]]"
-location:
+location: [2014, 1675]
 ---
 # Location
 ```leaflet

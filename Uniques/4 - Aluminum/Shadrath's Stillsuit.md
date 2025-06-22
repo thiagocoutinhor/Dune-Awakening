@@ -1,15 +1,14 @@
 ---
 tags:
   - equipment
-  - weapon
+  - armor
   - unique
-type: Rifle
-tier: Steel
+type: Stillsuit
+tier: Aluminum
 fabricators:
-  - Weapons
-cost: 12500
+  - Garment
+cost: 45500
 ---
-![[Ripper.png]]
 # Found In
 ```dataview
 table

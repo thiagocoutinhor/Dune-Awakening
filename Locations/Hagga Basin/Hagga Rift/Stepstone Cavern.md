@@ -2,7 +2,7 @@
 tags:
   - location
   - cavern
-region: 
+region: "[[Hagga Rift]]"
 location:
   - - 1584.8906
     - 1494.2657

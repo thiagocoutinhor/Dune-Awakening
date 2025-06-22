@@ -1,15 +1,15 @@
 ---
 tags:
   - equipment
-  - weapon
+  - utility
   - unique
-type: Rifle
-tier: Steel
+type: Power Pack
+tier: Aluminum
 fabricators:
-  - Weapons
-cost: 12500
+  - Survival
+cost: 22500
 ---
-![[Ripper.png]]
+![[Old Sparky Mk4.png]]
 # Found In
 ```dataview
 table

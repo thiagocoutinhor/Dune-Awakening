@@ -32,3 +32,4 @@ noUI: true
 # Loot
 [[Way of the Lost]]
 [[Karak's Armor]]
+[[Ripper]]

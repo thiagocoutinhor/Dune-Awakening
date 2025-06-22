@@ -3,7 +3,7 @@ tags:
   - location
   - shipwreck
 region: "[[Shield Wall - Eastern]]"
-location:
+location: [2153, 68]
 ---
 # Location
 ```leaflet

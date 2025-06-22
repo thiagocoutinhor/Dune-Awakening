@@ -9,7 +9,7 @@
   "obsidian-joval-theme@@show-prop": true,
   "supercharged-links@@e93e-7251-color": "#9C9768",
   "supercharged-links@@925e-b614-color": "#9468CC",
-  "supercharged-links@@3ed2-a511-color": "#A30000",
+  "supercharged-links@@3ed2-a511-color": "#F33E3E",
   "supercharged-links@@3ed2-a511-weight": "bolder",
   "supercharged-links@@443e-13d3-color": "#00BF01",
   "supercharged-links@@443e-13d3-weight": "bolder",
@@ -22,5 +22,6 @@
   "supercharged-links@@54ae-9f87-weight": "bold",
   "supercharged-links@@c-8a78-1907-use-background": false,
   "supercharged-links@@8a78-1907-background-color": "#622069",
-  "supercharged-links@@8a78-1907-after": "⭐"
+  "supercharged-links@@8a78-1907-after": "⭐",
+  "supercharged-links@@3ed2-a511-background-color": "#FFFFFF"
 }

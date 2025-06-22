@@ -3,7 +3,7 @@ tags:
   - location
   - trial
 region: "[[Shield Wall - Eastern]]"
-location:
+location: [2010, 79]
 ---
 # Location
 ```leaflet

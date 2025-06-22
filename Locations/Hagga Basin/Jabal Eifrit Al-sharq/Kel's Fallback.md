@@ -4,7 +4,9 @@ tags:
   - cavern
   - star-chest
 region: "[[Jabal Eifrit Al-sharq]]"
-location:
+location: [2337, 1452]
+mapmarkers:
+  - [star-chest, [2334, 1452]]
 ---
 # Location
 ```leaflet

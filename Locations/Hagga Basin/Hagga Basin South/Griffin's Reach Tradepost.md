@@ -3,15 +3,9 @@ tags:
   - location
   - tradepost
 region: "[[Hagga Basin South]]"
-services:
-  - Vendor
-  - Contact Board
-  - Taxi Service
-trainers:
-  - Trooper
-representatives:
-  - Argosaz
-location: [425, 705.5]
+location:
+  - 425
+  - 705.5
 ---
 # Location
 ```leaflet

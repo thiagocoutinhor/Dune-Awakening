@@ -3,7 +3,7 @@ tags:
   - location
   - testing-station
 region: "[[Jabal Eifrit Al-sharq]]"
-location:
+location: [2033, 1658]
 ---
 # Location
 ```leaflet

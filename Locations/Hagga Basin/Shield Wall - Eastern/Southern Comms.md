@@ -2,8 +2,11 @@
 tags:
   - location
   - outpost
+  - star-chest
 region: "[[Shield Wall - Eastern]]"
-location:
+location: [2157, 320]
+mapmarkers:
+  - [star-chest, [2154, 320]]
 ---
 # Location
 ```leaflet
@@ -25,3 +28,4 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
+[[Sentinel Armor]]
