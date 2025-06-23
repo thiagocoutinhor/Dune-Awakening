@@ -1,9 +1,8 @@
 ---
 tags:
   - location
-  - testing-station
-  - star-chest
-region: "[[Shield Wall - Eastern]]"
+  - poi
+region: "[[Mysa Tarill]]"
 location:
 ---
 # Location
@@ -13,7 +12,7 @@ image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [[Imperial Testing Station No. 142]]
+coordinates: [[Ruined Landing Pad]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
@@ -26,4 +25,3 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Maraqeb Stillsuit]]
