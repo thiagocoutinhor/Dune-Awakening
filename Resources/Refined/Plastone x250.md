@@ -4,6 +4,6 @@ tags:
   - refined
 tier: Aluminum
 ---
-38x Water
-150x [[Basalt Stone]]
+50x Water
+200x [[Basalt Stone]]
 1x [[Silicone Block]]
