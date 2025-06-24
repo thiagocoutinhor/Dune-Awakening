@@ -3,7 +3,7 @@ tags:
   - location
   - cavern
 region: "[[Shield Wall - Eastern]]"
-location:
+location: [2064, 214]
 ---
 # Location
 ```leaflet

@@ -4,7 +4,7 @@ tags:
   - fortress
   - atreides
 region: "[[Shield Wall - Eastern]]"
-location:
+location: [2022, 438]
 ---
 # Location
 ```leaflet

@@ -3,7 +3,7 @@ tags:
   - location
   - outpost
 region: "[[Shield Wall - Eastern]]"
-location:
+location: [1934, -97]
 ---
 # Location
 ```leaflet

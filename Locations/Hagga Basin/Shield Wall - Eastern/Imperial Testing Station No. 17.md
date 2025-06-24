@@ -3,7 +3,7 @@ tags:
   - location
   - testing-station
 region: "[[Shield Wall - Eastern]]"
-location:
+location: [2619, 314]
 ---
 # Location
 ```leaflet

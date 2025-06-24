@@ -4,7 +4,7 @@ tags:
   - testing-station
   - star-chest
 region: "[[Shield Wall - Eastern]]"
-location:
+location: [2637, 598]
 ---
 # Location
 ```leaflet
