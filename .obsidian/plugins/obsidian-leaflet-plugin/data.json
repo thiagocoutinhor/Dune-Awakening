@@ -199,9 +199,9 @@
     },
     {
       "type": "Representative",
-      "iconName": "people-arrows",
-      "color": "#0ecd94",
-      "alpha": 0.61,
+      "iconName": "user-shield",
+      "color": "#31b5bf",
+      "alpha": 1,
       "layer": false,
       "transform": {
         "size": 6,
