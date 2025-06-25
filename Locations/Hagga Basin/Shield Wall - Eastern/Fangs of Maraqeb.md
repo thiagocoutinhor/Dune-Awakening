@@ -29,3 +29,4 @@ noUI: true
 ```
 # Loot
 [[Power Gauntlets]]
+[[Idaho Softstep Boots]]

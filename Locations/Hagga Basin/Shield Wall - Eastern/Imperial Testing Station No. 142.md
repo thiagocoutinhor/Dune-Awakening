@@ -5,6 +5,8 @@ tags:
   - star-chest
 region: "[[Shield Wall - Eastern]]"
 location: [2637, 598]
+mapmarkers:
+  - [star-chest, [2634, 598]]
 ---
 # Location
 ```leaflet
