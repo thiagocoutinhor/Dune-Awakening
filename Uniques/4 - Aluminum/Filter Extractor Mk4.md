@@ -1,15 +1,15 @@
 ---
 tags:
   - equipment
-  - armor
+  - utility
   - unique
-type: Stillsuit
+type: Blood Extractor
 tier: Aluminum
 fabricators:
-  - Garment
+  - Survival
 cost:
 ---
-![[Maraqeb Stillsuit.png]]
+![[Filter Extractor Mk4.png]]
 # Found In
 ```dataview
 table

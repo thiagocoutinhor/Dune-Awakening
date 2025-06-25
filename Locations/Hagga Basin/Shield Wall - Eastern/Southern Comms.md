@@ -29,3 +29,4 @@ noUI: true
 ```
 # Loot
 [[Sentinel Armor]]
+[[Filter Extractor Mk4]]
