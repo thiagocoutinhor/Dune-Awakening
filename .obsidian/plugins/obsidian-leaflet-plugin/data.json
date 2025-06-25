@@ -196,6 +196,24 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": null
+    },
+    {
+      "type": "Representative",
+      "iconName": "people-arrows",
+      "color": "#0ecd94",
+      "alpha": 0.61,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "representative"
+      ],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",
