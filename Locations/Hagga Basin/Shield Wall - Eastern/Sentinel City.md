@@ -30,3 +30,4 @@ noUI: true
 # Loot
 [[House Burst Drillshot]]
 [[Poison Mist]]
+[[Denira's Gift]]

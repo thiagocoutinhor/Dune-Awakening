@@ -1,18 +1,27 @@
+---
+tags:
+  - location
+  - shipwreck
+region: "[[Sheol]]"
+location:
+---
+# Location
 ```leaflet
 id: hagga-basin
 image: [[Hagga Basin.png]]
 bounds:
   - [0, -625]
   - [3000, 1875]
-coordinates: [700, 935.5] # Modificar
+coordinates: [[Wreck of the Ourea (Fore)]]
 defaultZoom: 0
 zoomDelta: 0.5
 minZoom: -2
 maxZoom: 1
-width: 95%
-height: 900px
+width: 250px
+height: 250px
 scale: 2.81
 unit: meters
 markerFolder: Locations
-markerFolder: Representatives
+noUI: true
 ```
+# Loot

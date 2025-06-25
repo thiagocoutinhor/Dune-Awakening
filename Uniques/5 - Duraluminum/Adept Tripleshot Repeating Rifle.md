@@ -3,7 +3,7 @@ tags:
   - equipment
   - weapon
   - unique
-type: 
+type: Rifle
 tier: Duraluminum
 fabricators:
   - Weapons

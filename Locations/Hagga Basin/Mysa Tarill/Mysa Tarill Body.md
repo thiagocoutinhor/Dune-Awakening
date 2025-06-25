@@ -2,6 +2,7 @@
 tags:
   - location
   - star-chest
+  - poi
 region: "[[Mysa Tarill]]"
 location:
 ---
@@ -27,3 +28,5 @@ noUI: true
 # Loot
 [[Spark-Sword]]
 [[Power Gauntlets]]
+[[Poison Mist]]
+[[Clapper Mk4]]
