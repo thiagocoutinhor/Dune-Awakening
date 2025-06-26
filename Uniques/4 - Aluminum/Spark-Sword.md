@@ -1,15 +1,14 @@
 ---
 tags:
   - equipment
-  - armor
+  - weapon
   - unique
-type: Stillsuit
+type: Long Blade
 tier: Aluminum
 fabricators:
-  - Garment
-cost: 45500
+  - Weapons
+cost:
 ---
-![[Shadrath's Stillsuit.png]]
 # Found In
 ```dataview
 table

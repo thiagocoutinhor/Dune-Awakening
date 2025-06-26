@@ -1,15 +1,15 @@
 ---
 tags:
   - equipment
-  - armor
+  - utility
   - unique
-type: Stillsuit
+type: Thumper
 tier: Aluminum
 fabricators:
-  - Garment
-cost: 45500
+  - Survival
+cost:
 ---
-![[Shadrath's Stillsuit.png]]
+![[Clapper Mk4.png]]
 # Found In
 ```dataview
 table

@@ -1,15 +1,15 @@
 ---
 tags:
   - equipment
-  - armor
+  - weapon
   - unique
-type: Stillsuit
+type: Short Blade
 tier: Aluminum
 fabricators:
-  - Garment
-cost: 45500
+  - Weapons
+cost:
 ---
-![[Shadrath's Stillsuit.png]]
+![[Denira's Gift.png]]
 # Found In
 ```dataview
 table
