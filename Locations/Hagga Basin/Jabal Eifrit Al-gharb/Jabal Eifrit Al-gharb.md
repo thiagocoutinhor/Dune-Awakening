@@ -8,7 +8,7 @@ tags:
 id: hagga-basin
 image: [[Hagga Basin.png]]
 bounds:
-  - [0,-625]
+  - [0, -975]
   - [3000, 1875]
 coordinates: [2146.5938, 573.5482] # Modificar
 defaultZoom: 0
