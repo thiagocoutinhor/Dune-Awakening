@@ -32,3 +32,4 @@ noUI: true
 # Loot
 [[Bluddshot Buggy engine Mk4]]
 [[Miner's Blessing]]
+[[Improved Suspensor Jacket]]
