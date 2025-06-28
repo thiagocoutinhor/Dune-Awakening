@@ -1,17 +1,22 @@
 ---
 tags:
   - location
-  - cavern
+  - outpost
+  - star-chest
 region: "[[Mysa Tarill]]"
 location:
+  - 4909
+  - 704
+mapmarkers:
+  - [star-chest, [4909, 704]]
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[The Beast's Claw]]
 defaultZoom: 0
 zoomDelta: 0.5
@@ -25,4 +30,4 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-
+[[The Emperor's Wings Mk4]]

@@ -5,10 +5,10 @@ tags:
 # Map
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -975]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [283.7813, 907.5038] # Modificar
 defaultZoom: 0
 zoomDelta: 0.5

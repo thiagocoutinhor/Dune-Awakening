@@ -3,15 +3,17 @@ tags:
   - location
   - testing-station
 region: "[[Hagga Rift]]"
-location: [2066, 1461]
+location:
+  - 5945
+  - 6991
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Imeprial Testing Station No. 23]]
 defaultZoom: 0
 zoomDelta: 0.5

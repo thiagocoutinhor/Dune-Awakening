@@ -3,15 +3,17 @@ tags:
   - location
   - outpost
 region: "[[Shield Wall - Eastern]]"
-location: [2166, -109]
+location:
+  - 6213
+  - 2613
 ---
-# Location
+6,309.6022, 2,768.8235# Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Kief's Triumph]]
 defaultZoom: 0
 zoomDelta: 0.5

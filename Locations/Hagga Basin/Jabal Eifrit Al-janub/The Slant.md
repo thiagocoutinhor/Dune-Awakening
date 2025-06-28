@@ -4,16 +4,16 @@ tags:
   - outpost
 region: "[[Jabal Eifrit Al-janub]]"
 location:
-  - 1863.2969
-  - 913.0422
+  - 5410
+  - 5432
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[The Slant]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -4,16 +4,16 @@ tags:
   - outpost
 region: "[[Jabal Eifrit Al-gharb]]"
 location:
-  - 1874.3906
-  - 432.0128
+  - 5432
+  - 4132
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Eastern Jumble]]
 defaultZoom: 0
 zoomDelta: 0.5

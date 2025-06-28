@@ -4,16 +4,16 @@ tags:
   - outpost
 region: "[[Hagga Rift]]"
 location:
-  - 2099.3906
-  - 1001.4997
+  - 6007
+  - 5715
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Northern Bunker]]
 defaultZoom: 0
 zoomDelta: 0.5

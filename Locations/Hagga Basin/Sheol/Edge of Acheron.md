@@ -4,15 +4,17 @@ tags:
   - outpost
   - star-chest
 region: "[[Sheol]]"
-location:
+location: [3069, 1415]
+mapmarkers:
+  - [star-chest, [3069, 1415]]
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Edge of Acheron]]
 defaultZoom: 0
 zoomDelta: 0.5

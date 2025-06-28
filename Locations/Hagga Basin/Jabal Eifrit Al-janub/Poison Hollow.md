@@ -3,15 +3,17 @@ tags:
   - location
   - cavern
 region: "[[Jabal Eifrit Al-janub]]"
-location: [1833.7969, 937.0356]
+location:
+  - 5305
+  - 5509
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Poison Hollow]]
 defaultZoom: 0
 zoomDelta: 0.5

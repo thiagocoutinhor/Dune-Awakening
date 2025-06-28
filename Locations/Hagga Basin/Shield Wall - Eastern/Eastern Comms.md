@@ -3,15 +3,17 @@ tags:
   - location
   - outpost
 region: "[[Shield Wall - Eastern]]"
-location: [2378, 531]
+location:
+  - 6827
+  - 4434
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Eastern Comms]]
 defaultZoom: 0
 zoomDelta: 0.5

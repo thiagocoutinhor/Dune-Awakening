@@ -4,16 +4,16 @@ tags:
   - outpost
 region: "[[Vermilius Gap - Eastern]]"
 location:
-  - 797
-  - 1177
+  - 2444
+  - 6135
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Scav's Hope]]
 defaultZoom: 0
 zoomDelta: 0.5

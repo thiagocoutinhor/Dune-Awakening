@@ -4,17 +4,21 @@ tags:
   - testing-station
   - star-chest
 region: "[[Shield Wall - Eastern]]"
-location: [2637, 598]
+location:
+  - 7440
+  - 4528
 mapmarkers:
-  - [star-chest, [2634, 598]]
+  - - star-chest
+    - - 7440
+      - 4528
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Imperial Testing Station No. 142]]
 defaultZoom: 0
 zoomDelta: 0.5

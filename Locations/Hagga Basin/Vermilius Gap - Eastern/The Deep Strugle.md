@@ -4,16 +4,16 @@ tags:
   - trial
 region: "[[Vermilius Gap - Eastern]]"
 location:
-  - 879
-  - 1225
+  - 2676
+  - 6264
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[The Deep Strugle]]
 defaultZoom: 0
 zoomDelta: 0.5

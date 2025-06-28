@@ -4,16 +4,16 @@ tags:
   - cavern
 region: "[[Vermilius Gap - Western]]"
 location:
-  - 1523.3906
-  - 159.748
+  - 4411
+  - 3333
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Hidden Eyrie]]
 defaultZoom: 0
 zoomDelta: 0.5

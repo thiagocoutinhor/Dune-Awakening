@@ -5,18 +5,20 @@ tags:
   - star-chest
 region: "[[Jabal Eifrit Al-gharb]]"
 location:
-  - 1878
-  - 390
+  - 5444
+  - 4039
 mapmarkers:
-  - [star-chest, [1875, 390]]
+  - - star-chest
+    - - 5444
+      - 4039
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Beneath the Jumble]]
 defaultZoom: 0
 zoomDelta: 0.5

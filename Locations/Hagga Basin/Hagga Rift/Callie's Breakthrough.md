@@ -3,15 +3,17 @@ tags:
   - location
   - cavern
 region: "[[Hagga Rift]]"
-location: [2154.3997, 1030.2546]
+location:
+  - 6133
+  - 5769
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Callie's Breakthrough]]
 defaultZoom: 0
 zoomDelta: 0.5

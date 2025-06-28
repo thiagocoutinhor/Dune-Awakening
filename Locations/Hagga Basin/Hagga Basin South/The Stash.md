@@ -3,15 +3,17 @@ tags:
   - location
   - cavern
 region: "[[Hagga Basin South]]"
-location: [145, 1247]
+location:
+  - 600
+  - 6154
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[The Stash]]
 defaultZoom: 0
 zoomDelta: 0.5

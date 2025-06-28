@@ -2,16 +2,21 @@
 tags:
   - location
   - testing-station
+  - star-chest
 region: "[[The O'odham]]"
 location:
+  - 6059
+  - 993
+mapmarkers:
+  - [star-chest, [6059, 993]]
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Imperial Testing Station No. 163]]
 defaultZoom: 0
 zoomDelta: 0.5
@@ -25,3 +30,5 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
+[[Maraqeb Stillsuit]]
+[[Firestorm]]

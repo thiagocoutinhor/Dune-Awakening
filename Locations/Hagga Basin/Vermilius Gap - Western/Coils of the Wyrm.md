@@ -5,25 +5,20 @@ tags:
   - star-chest
 region: "[[Vermilius Gap - Western]]"
 location:
-  - - 1130.8906
-    - 114
-  - - 1152.4375
-    - 66.7336
+  - 3473
+  - 3123
 mapmarkers:
   - - star-chest
-    - - 1127.8906
-      - 114
-  - - star-chest
-    - - 1149.4375
-      - 66.7336
+    - - 3473
+      - 3123
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Coils of the Wyrm]]
 defaultZoom: 0
 zoomDelta: 0.5

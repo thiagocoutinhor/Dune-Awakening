@@ -3,15 +3,17 @@ tags:
   - location
   - cavern
 region: "[[Hagga Basin South]]"
-location: [166, 637]
+location:
+  - 651
+  - 4467
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[The Backway]]
 defaultZoom: 0
 zoomDelta: 0.5

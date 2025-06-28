@@ -4,16 +4,16 @@ tags:
   - outpost
 region: "[[Vermilius Gap - Western]]"
 location:
-  - 1582
-  - 245
+  - 4646
+  - 3543
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Quarterhouse]]
 defaultZoom: 0
 zoomDelta: 0.5

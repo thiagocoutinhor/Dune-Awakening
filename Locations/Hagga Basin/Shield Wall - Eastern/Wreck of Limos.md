@@ -3,15 +3,17 @@ tags:
   - location
   - shipwreck
 region: "[[Shield Wall - Eastern]]"
-location: [2153, 68]
+location:
+  - 6142
+  - 3086
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Wreck of Limos]]
 defaultZoom: 0
 zoomDelta: 0.5

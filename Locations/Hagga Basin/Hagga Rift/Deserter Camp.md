@@ -5,18 +5,20 @@ tags:
   - star-chest
 region: "[[Hagga Rift]]"
 location:
-  - 2239
-  - 1122
+  - 6427
+  - 6053
 mapmarkers:
-  - [star-chest, [2236, 1122]]
+  - - star-chest
+    - - 6427
+      - 6053
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Deserter Camp]]
 defaultZoom: 0
 zoomDelta: 0.5

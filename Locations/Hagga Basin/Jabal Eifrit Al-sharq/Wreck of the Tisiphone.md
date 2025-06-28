@@ -4,15 +4,19 @@ tags:
   - shipwreck
   - star-chest
 region: "[[Jabal Eifrit Al-sharq]]"
-location: [2175, 1256]
+location:
+  - 6271
+  - 6359
+mapmarkers:
+  - [star-chest, [6271, 6359]]
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Wreck of the Tisiphone]]
 defaultZoom: 0
 zoomDelta: 0.5

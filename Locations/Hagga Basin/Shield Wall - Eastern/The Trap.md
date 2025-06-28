@@ -3,15 +3,17 @@ tags:
   - location
   - cavern
 region: "[[Shield Wall - Eastern]]"
-location: [2064, 214]
+location:
+  - 5890
+  - 3507
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[The Trap]]
 defaultZoom: 0
 zoomDelta: 0.5

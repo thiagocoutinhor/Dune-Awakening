@@ -3,15 +3,17 @@ tags:
   - location
   - outpost
 region: "[[Jabal Eifrit Al-janub]]"
-location: [1558.7969, 1320.2757]
+location:
+  - 4476
+  - 6578
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Runaway Station]]
 defaultZoom: 0
 zoomDelta: 0.5

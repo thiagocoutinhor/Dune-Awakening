@@ -4,16 +4,16 @@ tags:
   - shipwreck
 region: "[[Vermilius Gap - Eastern]]"
 location:
-  - 859.7813
-  - 1045.9872
+  - 2593
+  - 5791
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[The Wreck of the Actaeon]]
 defaultZoom: 0
 zoomDelta: 0.5

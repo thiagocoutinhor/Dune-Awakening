@@ -5,20 +5,20 @@ tags:
   - star-chest
 region: "[[Vermilius Gap - Eastern]]"
 location:
-  - 1188.7813
-  - 863.0162
+  - 3543
+  - 5291
 mapmarkers:
   - - star-chest
-    - - 1186.7813
-      - 863.0162
+    - - 3543
+      - 5291
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Suk Alusus]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -4,18 +4,18 @@ tags:
   - mining
 region: "[[Vermilius Gap - Western]]"
 location:
-  - - 759
-    - 596
-  - - 798
-    - 605
+  - 2477
+  - 4593
+mapmarkers:
+  - [mining, [2351, 4563]]
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Southwest Ironworks]]
 defaultZoom: 0
 zoomDelta: 0.5

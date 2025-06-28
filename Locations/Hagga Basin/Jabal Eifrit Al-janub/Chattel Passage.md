@@ -3,15 +3,17 @@ tags:
   - location
   - outpost
 region: "[[Jabal Eifrit Al-janub]]"
-location: [1873.2969, 1103.4897]
+location:
+  - 5404
+  - 5907
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Chattel Passage]]
 defaultZoom: 0
 zoomDelta: 0.5

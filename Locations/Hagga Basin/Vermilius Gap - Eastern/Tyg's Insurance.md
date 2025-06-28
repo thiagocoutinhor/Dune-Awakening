@@ -4,16 +4,16 @@ tags:
   - cavern
 region: "[[Vermilius Gap - Eastern]]"
 location:
-  - 1196
-  - 1281
+  - 3511
+  - 6450
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Tyg's Insurance]]
 defaultZoom: 0
 zoomDelta: 0.5

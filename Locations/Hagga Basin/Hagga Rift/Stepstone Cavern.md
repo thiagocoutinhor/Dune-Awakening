@@ -4,18 +4,16 @@ tags:
   - cavern
 region: "[[Hagga Rift]]"
 location:
-  - - 1584.8906
-    - 1494.2657
-  - - 1621.8906
-    - 1481.5004
+  - 4630
+  - 7050
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Stepstone Cavern]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -4,16 +4,16 @@ tags:
   - trial
 region: "[[Vermilius Gap - Western]]"
 location:
-  - 1143.8906
-  - 119.5
+  - 3447
+  - 3245
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Cave of the Lost Pilgrim]]
 defaultZoom: 0
 zoomDelta: 0.5

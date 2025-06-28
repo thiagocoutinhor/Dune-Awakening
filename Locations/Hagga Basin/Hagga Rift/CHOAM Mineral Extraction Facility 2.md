@@ -3,15 +3,17 @@ tags:
   - location
   - mining
 region: "[[Hagga Rift]]"
-location: [1736.8906, 1443]
+location:
+  - 5005
+  - 6899
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[CHOAM Mineral Extraction Facility 2]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -3,15 +3,17 @@ tags:
   - location
   - trial
 region: "[[Jabal Eifrit Al-sharq]]"
-location: [2353, 1707]
+location:
+  - 6775
+  - 7602
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Devil's eye Cavern]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -4,17 +4,21 @@ tags:
   - mining
   - star-chest
 region: "[[Shield Wall - Eastern]]"
-location: [2286, 95]
+location:
+  - 6527
+  - 3218
 mapmarkers:
-  - [star-chest, [2283, 95]]
+  - - star-chest
+    - - 6527
+      - 3218
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Sentinel City]]
 defaultZoom: 0
 zoomDelta: 0.5

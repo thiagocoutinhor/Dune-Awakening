@@ -4,17 +4,21 @@ tags:
   - poi
   - star-chest
 region: "[[Shield Wall - Eastern]]"
-location: [2302, 86]
+location:
+  - 6640
+  - 3241
 mapmarkers:
-  - [star-chest, [2300, 86]]
+  - - star-chest
+    - - 6640
+      - 3241
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Fangs of Maraqeb]]
 defaultZoom: 0
 zoomDelta: 0.5
@@ -31,3 +35,4 @@ noUI: true
 [[Power Gauntlets]]
 [[Idaho Softstep Boots]]
 [[Shadrath's Stillsuit]]
+[[Stammershot]]

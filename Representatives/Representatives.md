@@ -1,20 +1,19 @@
 # Map
 ```leaflet
 id: representatives
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
-coordinates: [1500, 935.5] # Modificar
-defaultZoom: -1.5
+  - [0, 0]
+  - [8012, 8012]
+coordinates: [4006, 4006] # Modificar
+defaultZoom: -3
 zoomDelta: 0.5
-minZoom: -2
+minZoom: -3.5
 maxZoom: 1
 width: 95%
 height: 900px
 scale: 2.81
 unit: meters
-markerFolder: Locations
 markerFolder: Representatives
 ```
 

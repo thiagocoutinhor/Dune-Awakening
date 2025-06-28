@@ -5,21 +5,20 @@ tags:
   - star-chest
 region: "[[Vermilius Gap - Eastern]]"
 location:
-  - - 1247
-    - 1177
-  - - 1228
-    - 1214
+  - 3603
+  - 6250
 mapmarkers:
-  - [star-chest, [1244, 1177]]
-  - [star-chest, [1225, 1214]]
+  - - star-chest
+    - - 3603
+      - 6250
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Ghanima Cavern]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -4,16 +4,16 @@ tags:
   - testing-station
 region: "[[Vermilius Gap - Western]]"
 location:
-  - 1492
-  - 157
+  - 4355
+  - 3319
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Imperial Testing Station No. 13]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -5,18 +5,20 @@ tags:
   - star-chest
 region: "[[Hagga Rift]]"
 location:
-  - 1661
-  - 1512
+  - 4799
+  - 7105
 mapmarkers:
-  - [star-chest, [1658, 1512]]
+  - - star-chest
+    - - 4799
+      - 7105
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Wreck of the Kytheria]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -5,18 +5,20 @@ tags:
   - star-chest
 region: "[[Hagga Rift]]"
 location:
-  - 1244
-  - 1559
+  - 3650
+  - 7245
 mapmarkers:
-  - [star-chest, [1241, 1559]]
+  - - star-chest
+    - - 3650
+      - 7245
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[The Gasp]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -5,18 +5,20 @@ tags:
   - star-chest
 region: "[[Hagga Basin South]]"
 location:
-  - 168
-  - 978
+  - 650
+  - 5378
 mapmarkers:
-  - [star-chest, [165, 978]]
+  - - star-chest
+    - - 650
+      - 5378
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Keyhole Rock]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -5,18 +5,20 @@ tags:
   - star-chest
 region: "[[Hagga Rift]]"
 location:
-  - 2042
-  - 1105
+  - 5875
+  - 5972
 mapmarkers:
-  - [star-chest, [2039, 1105]]
+  - - star-chest
+    - - 5875
+      - 5972
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Arctus Cavern]]
 defaultZoom: 0
 zoomDelta: 0.5

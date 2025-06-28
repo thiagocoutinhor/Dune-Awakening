@@ -5,18 +5,18 @@ tags:
   - star-chest
 region: "[[Vermilius Gap - Eastern]]"
 location:
-  - 1165
-  - 838
+  - 3279
+  - 5298
 mapmarkers:
-  - [star-chest, [1162, 838]]
+  - [star-chest, [3279, 5298]]
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Fallen Ornitopter]]
 defaultZoom: 0
 zoomDelta: 0.5

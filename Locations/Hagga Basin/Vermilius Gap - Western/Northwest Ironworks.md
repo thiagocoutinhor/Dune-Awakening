@@ -5,20 +5,21 @@ tags:
   - star-chest
 region: "[[Vermilius Gap - Western]]"
 location:
-  - - 1572
-    - 202
-  - - 1614
-    - 241
+  - 4639
+  - 3441
 mapmarkers:
-  - [star-chest, [1569, 202]]
+  - [mining, [4739, 3567]]
+  - - star-chest
+    - - 4639
+      - 3441
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Northwest Ironworks]]
 defaultZoom: 0
 zoomDelta: 0.5

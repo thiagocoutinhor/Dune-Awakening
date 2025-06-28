@@ -4,16 +4,16 @@ tags:
   - testing-station
 region: "[[Jabal Eifrit Al-janub]]"
 location:
-  - 1810.2969
-  - 1133.9813
+  - 5215
+  - 5992
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Imperial Testing Station No. 117]]
 defaultZoom: 0
 zoomDelta: 0.5

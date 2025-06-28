@@ -3,15 +3,17 @@ tags:
   - location
   - cavern
 region: "[[Jabal Eifrit Al-gharb]]"
-location: [1949.2969, 530.755]
+location:
+  - 5594
+  - 4395
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Whispering Cavern]]
 defaultZoom: 0
 zoomDelta: 0.5

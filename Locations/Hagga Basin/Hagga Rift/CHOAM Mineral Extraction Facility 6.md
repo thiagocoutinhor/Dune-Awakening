@@ -5,18 +5,20 @@ tags:
   - star-chest
 region: "[[Hagga Rift]]"
 location:
-  - 1999
-  - 964
+  - 5747
+  - 5581
 mapmarkers:
-  - [star-chest, [1996, 964]]
+  - - star-chest
+    - - 5747
+      - 5581
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[CHOAM Mineral Extraction Facility 6]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -4,16 +4,16 @@ tags:
   - trial
 region: "[[Hagga Rift]]"
 location:
-  - 2063
-  - 1016
+  - 5909
+  - 5769
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Te Red Maw]]
 defaultZoom: 0
 zoomDelta: 0.5

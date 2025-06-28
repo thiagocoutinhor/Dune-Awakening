@@ -3,15 +3,17 @@ tags:
   - location
   - outpost
 region: "[[Jabal Eifrit Al-sharq]]"
-location: [1850, 1665]
+location:
+  - 5373
+  - 7486
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Farhold]]
 defaultZoom: 0
 zoomDelta: 0.5

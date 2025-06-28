@@ -4,16 +4,16 @@ tags:
   - outpost
 region: "[[Vermilius Gap - Western]]"
 location:
-  - 959
-  - 89.7498
+  - 2877
+  - 3213
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Menol's Folly]]
 defaultZoom: 0
 zoomDelta: 0.5

@@ -5,18 +5,20 @@ tags:
   - star-chest
 region: "[[Jabal Eifrit Al-gharb]]"
 location:
-  - 1876.3906
-  - 584.5003
+  - 5421
+  - 4581
 mapmarkers:
-  - [star-chest, [1873, 584]]
+  - - star-chest
+    - - 5421
+      - 4581
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Piter's Net]]
 defaultZoom: 0
 zoomDelta: 0.5

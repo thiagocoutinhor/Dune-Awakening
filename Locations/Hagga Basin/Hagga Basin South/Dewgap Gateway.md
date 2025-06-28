@@ -5,18 +5,20 @@ tags:
   - star-chest
 region: "[[Hagga Basin South]]"
 location:
-  - 341
-  - 520
+  - 1146
+  - 4149
 mapmarkers:
-  - [star-chest, [338, 520]]
+  - - star-chest
+    - - 1146
+      - 4149
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Dewgap Gateway]]
 defaultZoom: 0
 zoomDelta: 0.5

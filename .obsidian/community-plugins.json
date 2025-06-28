@@ -10,5 +10,6 @@
   "obsidian-hover-editor",
   "obsidian-git",
   "callout-manager",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "js-engine"
 ]

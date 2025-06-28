@@ -5,18 +5,20 @@ tags:
   - star-chest
 region: "[[Jabal Eifrit Al-janub]]"
 location:
-  - 1668
-  - 1053
+  - 4833
+  - 5828
 mapmarkers:
-  - [star-chest, [1665, 1053]]
+  - - star-chest
+    - - 4833
+      - 5825
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Khidir's Shadow]]
 defaultZoom: 0
 zoomDelta: 0.5

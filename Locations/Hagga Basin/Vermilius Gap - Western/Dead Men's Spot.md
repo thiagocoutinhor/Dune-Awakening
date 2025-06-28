@@ -4,16 +4,16 @@ tags:
   - outpost
 region: "[[Vermilius Gap - Western]]"
 location:
-  - 1328
-  - 639.8011
+  - 3923
+  - 4627
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Dead Men's Spot]]
 defaultZoom: 0
 zoomDelta: 0.5

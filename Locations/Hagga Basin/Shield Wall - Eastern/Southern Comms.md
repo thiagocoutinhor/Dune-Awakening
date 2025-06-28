@@ -4,17 +4,21 @@ tags:
   - outpost
   - star-chest
 region: "[[Shield Wall - Eastern]]"
-location: [2157, 320]
+location:
+  - 6120
+  - 3704
 mapmarkers:
-  - [star-chest, [2154, 320]]
+  - - star-chest
+    - - 6120
+      - 3704
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Southern Comms]]
 defaultZoom: 0
 zoomDelta: 0.5
@@ -30,3 +34,4 @@ noUI: true
 # Loot
 [[Sentinel Armor]]
 [[Filter Extractor Mk4]]
+[[Focused Buggy Cutteray Mk4]]

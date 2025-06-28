@@ -4,16 +4,16 @@ tags:
   - outpost
 region: "[[Hagga Rift]]"
 location:
-  - 2019.8906
-  - 924.0211
+  - 5775
+  - 5469
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Abernath's Descent]]
 defaultZoom: 0
 zoomDelta: 0.5

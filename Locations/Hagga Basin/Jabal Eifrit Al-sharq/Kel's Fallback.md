@@ -4,17 +4,21 @@ tags:
   - cavern
   - star-chest
 region: "[[Jabal Eifrit Al-sharq]]"
-location: [2337, 1452]
+location:
+  - 6715
+  - 6899
 mapmarkers:
-  - [star-chest, [2334, 1452]]
+  - - star-chest
+    - - 6715
+      - 6899
 ---
 # Location
 ```leaflet
 id: hagga-basin
-image: [[Hagga Basin.png]]
+image: [[HaggaBasinFull.webp]]
 bounds:
-  - [0, -625]
-  - [3000, 1875]
+  - [0, 0]
+  - [8012, 8012]
 coordinates: [[Kel's Fallback]]
 defaultZoom: 0
 zoomDelta: 0.5
