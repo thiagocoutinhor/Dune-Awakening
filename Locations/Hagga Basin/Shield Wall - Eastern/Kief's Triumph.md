@@ -10,7 +10,7 @@ location:
 6,309.6022, 2,768.8235# Location
 ```leaflet
 id: hagga-basin
-image: [[HaggaBasinFull.webp]]
+image: [[HaggaBasinFull.jpg]]
 bounds:
   - [0, 0]
   - [8012, 8012]

@@ -8,7 +8,7 @@ location: [992, 2030]
 # Location
 ```leaflet
 id: hagga-basin
-image: [[HaggaBasinFull.webp]]
+image: [[HaggaBasinFull.jpg]]
 bounds:
   - [0, 0]
   - [8012, 8012]
