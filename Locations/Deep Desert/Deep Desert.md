@@ -1,1 +1,3 @@
+# Map
+Link: https://www.planetologist.app
 <iframe style="width: 100%; height: 900px" src="https://www.planetologist.app"></iframe>

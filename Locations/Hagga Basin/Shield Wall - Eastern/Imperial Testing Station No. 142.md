@@ -33,3 +33,4 @@ noUI: true
 ```
 # Loot
 [[Maraqeb Stillsuit]]
+[[Old Sparky Mk4]]
