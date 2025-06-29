@@ -11,9 +11,6 @@ cost: 32000
 ---
 > [!citation]
 > Sometimes the engineers who design an interesting concept are also the ones who name it. This *Unique* storage extension for the four man groundcar or 'buggy' allows the transport of more inventory. Just try not to snigger at the name.
-# Found In
-```dataview
-table
-from #location 
-where contains(file.outlinks, this.file.link)
+```meta-bind-embed
+[[found-in-location]]
 ```

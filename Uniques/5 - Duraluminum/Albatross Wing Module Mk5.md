@@ -3,16 +3,13 @@ tags:
   - vehicle
   - ornitopter
   - unique
-type: 
+type:
 tier: Duraluminum
 fabricators:
   - Vehicle
 cost: 55000
 ---
 ![[Albatross Wing Module Mk5.png]]
-# Found In
-```dataview
-table
-from #location 
-where contains(file.outlinks, this.file.link)
+```meta-bind-embed
+[[found-in-location]]
 ```

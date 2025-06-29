@@ -10,9 +10,6 @@ fabricators:
 cost: 45500
 ---
 ![[Shadrath's Stillsuit.png]]
-# Found In
-```dataview
-table
-from #location 
-where contains(file.outlinks, this.file.link)
+```meta-bind-embed
+[[found-in-location]]
 ```

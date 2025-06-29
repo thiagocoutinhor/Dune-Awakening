@@ -10,9 +10,6 @@ fabricators:
 cost: 12500
 ---
 ![[Ripper.png]]
-# Found In
-```dataview
-table
-from #location 
-where contains(file.outlinks, this.file.link)
+```meta-bind-embed
+[[found-in-location]]
 ```

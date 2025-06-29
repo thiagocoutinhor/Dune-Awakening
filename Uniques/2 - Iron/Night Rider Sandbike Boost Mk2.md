@@ -12,9 +12,6 @@ cost: 16000
 ---
 > [!citation]
 > This *Unique* booster comes with an extra large air intake for better performance during the cool evening on Arrakis, though it helps very little during the superheated air of the day. Standard gear amongst the Dunemen who prefer to work by night.
-# Found In
-```dataview
-table
-from #location 
-where contains(file.outlinks, this.file.link)
+```meta-bind-embed
+[[found-in-location]]
 ```

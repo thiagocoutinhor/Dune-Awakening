@@ -1,17 +1,15 @@
 ---
-tags: 
-type: 
-tier: 
-fabricators: 
+tags:
+type:
+tier:
+fabricators:
 cost:
 ---
 # Description
 
+# Description
 > [!citation]
-> 
-# Found In
-```dataview
-table
-from #location 
-where contains(file.outlinks, this.file.link)
+>
+```meta-bind-embed
+[[found-in-location]]
 ```
