@@ -9,6 +9,7 @@ fabricators:
   - Vehicle
 cost: 220000
 ---
+# Description
 > [!citation]
 > This *Unique* boost provides a steady boost at a lower maximum speed, proving the adage "slow and steady wins the race". On Arrakis, natives tend to modify it slightly saying "only if"
 ```meta-bind-embed

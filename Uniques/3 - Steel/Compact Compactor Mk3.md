@@ -8,11 +8,12 @@ tier: Steel
 fabricators:
   - Survival
 ---
+# Description
 > [!citation]
 > The makers of this *Unique* static compactor prioritized reducing size, power draw, and most importantly worm attention.
 # Found In
 ```dataview
 table
-from #location 
+from #location
 where contains(file.outlinks, this.file.link)
 ```

@@ -8,6 +8,8 @@ location:
   - 5472
 ---
 # Location
+
+
 ```leaflet
 id: hagga-basin
 image: [[HaggaBasinFull.jpg]]

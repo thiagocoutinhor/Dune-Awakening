@@ -26,4 +26,5 @@ unit: meters
 markerFolder: Locations
 noUI: true
 ```
+
 # Loot
