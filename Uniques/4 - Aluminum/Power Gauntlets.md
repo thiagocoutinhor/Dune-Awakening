@@ -10,6 +10,7 @@ fabricators:
 cost:
 ---
 ![[Power Gauntlets.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

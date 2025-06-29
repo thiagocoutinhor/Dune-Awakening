@@ -10,6 +10,7 @@ fabricators:
 cost:
 ---
 ![[Idaho Softstep Boots.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

@@ -10,6 +10,7 @@ fabricators:
 cost: 55000
 ---
 ![[Albatross Wing Module Mk5.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

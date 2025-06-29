@@ -10,6 +10,7 @@ fabricators:
 cost: 12500
 ---
 ![[Ripper.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

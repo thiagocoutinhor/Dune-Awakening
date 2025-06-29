@@ -10,6 +10,7 @@ fabricators:
 cost:
 ---
 ![[Kel's Stillsuit.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

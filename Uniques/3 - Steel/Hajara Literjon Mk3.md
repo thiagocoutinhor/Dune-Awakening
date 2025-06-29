@@ -10,6 +10,7 @@ fabricators:
 cost:
 ---
 ![[Hajara Literjon Mk3.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

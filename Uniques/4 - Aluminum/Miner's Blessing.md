@@ -9,6 +9,7 @@ fabricators:
   - Garment
 cost:
 ---
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

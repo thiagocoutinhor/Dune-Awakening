@@ -10,6 +10,7 @@ fabricators:
 cost: 45500
 ---
 ![[Shadrath's Stillsuit.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

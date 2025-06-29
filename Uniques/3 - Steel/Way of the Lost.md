@@ -10,6 +10,7 @@ fabricators:
 cost:
 ---
 ![[Way of the Lost.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

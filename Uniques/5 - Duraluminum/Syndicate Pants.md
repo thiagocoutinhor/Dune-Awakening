@@ -9,6 +9,7 @@ fabricators:
 cost:
 ---
 ![[Syndicate Pants.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

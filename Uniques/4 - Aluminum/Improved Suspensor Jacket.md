@@ -10,6 +10,7 @@ fabricators:
 cost:
 ---
 ![[Improved Suspensor Jacket.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

@@ -10,6 +10,7 @@ fabricators:
 cost:
 ---
 ![[Shock Gauntlets.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

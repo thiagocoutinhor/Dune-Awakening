@@ -10,6 +10,7 @@ fabricators:
 cost: 22500
 ---
 ![[Old Sparky Mk4.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

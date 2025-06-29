@@ -10,6 +10,7 @@ fabricators:
 cost: 125000
 ---
 ![[Focused Buggy Cutteray Mk5.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

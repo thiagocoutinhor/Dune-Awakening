@@ -10,6 +10,7 @@ fabricators:
 cost: 12000
 ---
 ![[Seb's Kisser.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

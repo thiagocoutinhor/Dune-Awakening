@@ -10,6 +10,7 @@ fabricators:
 cost:
 ---
 ![[Callie's Breaker.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

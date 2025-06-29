@@ -10,6 +10,7 @@ fabricators:
 cost:
 ---
 ![[Old Sparky Mk 3.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

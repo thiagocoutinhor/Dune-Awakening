@@ -1,4 +1,3 @@
-# Found In
 ```dataview
 table
 from #location

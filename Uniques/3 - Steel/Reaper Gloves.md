@@ -10,6 +10,7 @@ fabricators:
 cost:
 ---
 ![[Reaper Gloves.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

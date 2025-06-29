@@ -10,6 +10,7 @@ fabricators:
 cost: 26000
 ---
 ![[Sentinel Gauntlets.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```

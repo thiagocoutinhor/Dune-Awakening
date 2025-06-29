@@ -10,6 +10,7 @@ fabricators:
 cost:
 ---
 ![[Handheld Life Scanner Mk3.png]]
+# Found In
 ```meta-bind-embed
 [[found-in-location]]
 ```
