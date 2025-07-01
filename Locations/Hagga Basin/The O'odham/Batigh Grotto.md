@@ -16,3 +16,4 @@ mapmarkers:
 ```
 # Loot
 [[House Disruptor Pistol]]
+[[Quirt's Gauntlets]]

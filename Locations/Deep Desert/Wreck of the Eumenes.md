@@ -9,3 +9,4 @@ region: "[[Deep Desert]]"
 # Loot
 [[Tarl Softstep Boots]]
 [[Mendek's Boots]]
+[[Advanced Suspensor Jacket]]

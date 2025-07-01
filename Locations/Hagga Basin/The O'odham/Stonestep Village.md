@@ -17,3 +17,4 @@ mapmarkers:
 # Loot
 [[Compact Compactor Mk4]]
 [[Tarl Cutteray]]
+[[Hajara Literjon Mk4]]
