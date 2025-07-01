@@ -1,8 +1,9 @@
 ---
 tags:
   - location
-region:
-location:
+  - cavern
+region: "[[Sheol]]"
+location: [918, 999]
 ---
 # Location
 ```meta-bind-embed

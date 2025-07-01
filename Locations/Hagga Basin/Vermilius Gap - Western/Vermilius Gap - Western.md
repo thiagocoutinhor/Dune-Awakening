@@ -19,6 +19,7 @@ height: 800px
 scale: 2.81
 unit: meters
 markerFolder: Locations
+markerFolder: Representatives
 ```
 # Uniques
 ```dataviewjs

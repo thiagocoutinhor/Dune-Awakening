@@ -1,8 +1,11 @@
 ---
 tags:
   - location
-region:
+  - outpost
+region: "[[Shield Wall - Western]]"
 location:
+  - 7090
+  - 667
 ---
 # Location
 ```meta-bind-embed
