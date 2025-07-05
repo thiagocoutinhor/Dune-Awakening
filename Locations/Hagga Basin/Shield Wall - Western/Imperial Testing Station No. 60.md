@@ -2,6 +2,7 @@
 tags:
   - location
   - testing-station
+  - star-chest
 region: "[[Shield Wall - Western]]"
 location:
   - 7455
@@ -12,3 +13,4 @@ location:
 [[location-map]]
 ```
 # Loot
+[[Hajara Literjon Mk4]]

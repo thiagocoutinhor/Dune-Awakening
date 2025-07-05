@@ -2,7 +2,7 @@
 tags:
   - region
 ---
-m# Map
+# Map
 ```leaflet
 id: hagga-basin
 image: [[HaggaBasinFull.jpg]]

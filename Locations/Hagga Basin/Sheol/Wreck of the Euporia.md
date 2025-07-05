@@ -16,3 +16,4 @@ mapmarkers:
 ```
 # Loot
 [[Bluddshot Buggy Engine Mk5]]
+[[Young Sparky Mk5]]

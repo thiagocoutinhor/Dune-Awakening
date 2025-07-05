@@ -14,4 +14,4 @@ mapmarkers:
 ```
 # Loot
 [[Adept Burst Drillshot]]
-[[Syndicate Pants]]
+[[Syndicate Armor]]

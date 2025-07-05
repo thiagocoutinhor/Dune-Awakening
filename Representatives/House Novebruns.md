@@ -1,7 +1,10 @@
 ---
 tags:
   - representative
-location: [3774, 4266]
+region: "[[Vermilius Gap - Western]]"
+location:
+  - 3774
+  - 4266
 ---
 # Location
 ```meta-bind-embed

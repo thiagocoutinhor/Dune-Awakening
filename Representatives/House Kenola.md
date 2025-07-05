@@ -1,7 +1,11 @@
 ---
 tags:
   - representative
-location: [5741, 1367]
+region: "[[The O'odham]]"
+location:
+  - 5741
+  - 1367
+Helped: true
 ---
 # Location
 ```meta-bind-embed

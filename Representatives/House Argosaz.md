@@ -1,7 +1,10 @@
 ---
 tags:
   - representative
-location: [1390, 4511]
+region: "[[Hagga Basin South]]"
+location:
+  - 1390
+  - 4511
 ---
 # Location
 ```meta-bind-embed

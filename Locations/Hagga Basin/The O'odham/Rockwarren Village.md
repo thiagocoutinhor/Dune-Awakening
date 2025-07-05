@@ -16,3 +16,5 @@ mapmarkers:
 ```
 # Loot
 [[Pipecleaner]]
+[[Compact Compactor Mk4]]
+e

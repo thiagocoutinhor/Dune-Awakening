@@ -1,7 +1,10 @@
 ---
 tags:
   - representative
-location: [5199, 5342]
+region: "[[Jabal Eifrit Al-janub]]"
+location:
+  - 5199
+  - 5342
 ---
 # Location
 ```meta-bind-embed

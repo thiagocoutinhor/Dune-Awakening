@@ -19,7 +19,7 @@ markerFolder: Representatives
 
 # Locations
 ```dataview
-table
+table region, helped
 from #representative
 sort file.name
 ```

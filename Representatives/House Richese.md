@@ -1,7 +1,10 @@
 ---
 tags:
   - representative
-location: [5765, 4130]
+region: "[[Shield Wall - Eastern]]"
+location:
+  - 5765
+  - 4130
 ---
 # Location
 ```meta-bind-embed
