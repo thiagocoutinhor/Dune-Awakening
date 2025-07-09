@@ -5,6 +5,7 @@ tags:
   - testing-station
   - star-chest
 region: "[[Deep Desert]]"
+sector: A3
 ---
 # Loot
 [[Double Sealed Stillnet]]

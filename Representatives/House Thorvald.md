@@ -1,7 +1,10 @@
 ---
 tags:
   - representative
-location: [4679, 7154]
+region: "[[Hagga Rift]]"
+location:
+  - 4679
+  - 7154
 ---
 # Location
 ```meta-bind-embed

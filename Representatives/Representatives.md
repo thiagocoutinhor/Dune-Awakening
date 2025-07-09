@@ -17,6 +17,20 @@ unit: meters
 markerFolder: Representatives
 ```
 
+# Helped
+```dataview
+table
+from #representative 
+where helped
+sort file.name
+```
+# Need Swatch
+```dataview
+table
+from #representative 
+where !swatch
+sort file.name
+```
 # Locations
 ```dataview
 table region, helped

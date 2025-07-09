@@ -1,5 +1,6 @@
 ---
 tags:
   - representative
-Helped: true
+region: "[[Harko Village]]"
+Helped: false
 ---

@@ -32,3 +32,4 @@ noUI: true
 # Loot
 [[Maraqeb Stillsuit]]
 [[Firestorm]]
+[[Spark-Sword]]

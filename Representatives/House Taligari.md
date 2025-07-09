@@ -1,7 +1,10 @@
 ---
 tags:
   - representative
-location: [5121, 2332]
+region: "[[Mysa Tarill]]"
+location:
+  - 5121
+  - 2332
 ---
 # Location
 ```meta-bind-embed

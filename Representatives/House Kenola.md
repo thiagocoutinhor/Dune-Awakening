@@ -5,7 +5,7 @@ region: "[[The O'odham]]"
 location:
   - 5741
   - 1367
-Helped: true
+Helped: false
 ---
 # Location
 ```meta-bind-embed

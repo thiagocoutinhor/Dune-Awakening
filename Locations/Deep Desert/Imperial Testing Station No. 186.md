@@ -2,8 +2,8 @@
 tags:
   - location
   - deep-desert
-  - shipwreck
+  - testing-station
 region: "[[Deep Desert]]"
-sector: A2
+sector: A8
 ---
 # Loot

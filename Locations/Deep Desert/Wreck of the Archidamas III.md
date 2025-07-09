@@ -4,6 +4,6 @@ tags:
   - deep-desert
   - shipwreck
 region: "[[Deep Desert]]"
-sector: A2
+sector: A3
 ---
 # Loot

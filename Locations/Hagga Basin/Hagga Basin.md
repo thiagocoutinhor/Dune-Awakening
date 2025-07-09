@@ -30,7 +30,7 @@ from #region and -"zzz_templates"
 # Star Chests
 ```dataview
 table region
-from #location and #star-chest
+from #location and #star-chest and "Locations/Hagga Basin"
 sort region
 ```
 # All Locations

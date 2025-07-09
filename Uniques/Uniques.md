@@ -5,7 +5,7 @@ table
 	replace(join(tags), ", unique", "") as tags, 
 	type,
 	join(file.inlinks) as locations
-from #unique 
+from #unique
 where tier = "Copper"
 sort tags, type
 ```

@@ -41,12 +41,6 @@ dv.table([
 	])
 )
 ```
-# Resources
-- [[Granite Stone]]
-- [[Salvaged Metal]]
-- [[Fuel Cell]]
-- [[Basalt Stone]]
-- [[Aluminum Ore]]
 # Locations
 ```dataview
 table replace(join(tags), "location, ", "") as Tipo

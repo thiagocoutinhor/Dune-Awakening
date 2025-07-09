@@ -26,13 +26,6 @@ markerFolder: Representatives
 ```meta-bind-embed
 [[uniques-region]]
 ```
-# Resources
-- [[Granite Stone]]
-- [[Salvaged Metal]]
-- [[Fuel Cell]]
-- [[Copper Ore]]
-- [[Carbon Ore]]
-- [[Aluminum Ore]]
 # Locations
 ```dataview
 table replace(join(tags), "location, ", "") as Tipo

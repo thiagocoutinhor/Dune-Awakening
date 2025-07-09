@@ -1,12 +1,8 @@
 ---
-tags:
-  - vehicle
-  - buggy
-  - unique
-type: Engine
-tier: Duraluminum
-fabricators:
-  - Vehicle
+tags: 
+type: 
+tier: 
+fabricators: []
 cost:
 ---
 # Description
