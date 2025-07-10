@@ -1,6 +1,5 @@
 ---
 tags:
   - representative
-region: 
-Helped:
+region:
 ---
