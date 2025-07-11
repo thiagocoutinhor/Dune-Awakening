@@ -33,7 +33,7 @@ sort file.name
 ```
 # Locations
 ```dataview
-table region, helped
+table region, swatch
 from #representative
 sort file.name
 ```
