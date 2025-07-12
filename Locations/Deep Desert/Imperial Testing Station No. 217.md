@@ -9,4 +9,4 @@ sector: A9
 ---
 # Loot
 [[Station Garb]]
-x
+[[Scrubber]]

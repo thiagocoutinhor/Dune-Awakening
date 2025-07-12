@@ -9,5 +9,5 @@ sector: A1
 ---
 # Loot
 [[Tarl Softstep Boots]]
-[[Mendek's Boots]]
+[[Mendek's Armor]]
 [[Advanced Suspensor Jacket]]

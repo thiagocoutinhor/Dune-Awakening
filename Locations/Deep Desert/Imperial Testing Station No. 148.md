@@ -9,3 +9,4 @@ sector: A4
 ---
 # Loot
 [[Saturnine Stillsuit]]
+[[Cope]]

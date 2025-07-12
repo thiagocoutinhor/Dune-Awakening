@@ -9,3 +9,4 @@ sector: A5
 ---
 # Loot
 [[Extravagant Message]]
+[[Saturnine Stillsuit]]
