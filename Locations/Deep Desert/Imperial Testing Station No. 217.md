@@ -10,3 +10,4 @@ sector: A9
 # Loot
 [[Station Garb]]
 [[Scrubber]]
+[[Taqwa's Double]]

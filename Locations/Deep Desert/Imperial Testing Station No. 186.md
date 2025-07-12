@@ -10,3 +10,4 @@ sector: A8
 # Loot
 [[Focused Reaper Mk5]]
 [[Jolt Sword]]
+[[Long Range Scanner]]
