@@ -11,3 +11,4 @@ sector: A9
 [[Station Garb]]
 [[Scrubber]]
 [[Taqwa's Double]]
+[[Albatross Wing Module Mk5]]

@@ -10,3 +10,4 @@ sector: A4
 # Loot
 [[Saturnine Stillsuit]]
 [[Cope]]
+[[Filter Extractor Mk5]]

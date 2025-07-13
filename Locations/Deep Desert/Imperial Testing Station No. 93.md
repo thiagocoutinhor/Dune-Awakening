@@ -11,3 +11,4 @@ sector: A5
 [[Extravagant Message]]
 [[Saturnine Stillsuit]]
 [[Hummingbird Wing Module Mk5]]
+[[Wayfinder Armor]]
