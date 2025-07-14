@@ -8,6 +8,9 @@ tier:
 fabricators:
 cost:
 ---
+# Description
+> [!citation]
+
 ![[Syndicate Pants.png]]
 # Found In
 ```meta-bind-embed
