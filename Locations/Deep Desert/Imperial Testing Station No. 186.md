@@ -11,3 +11,5 @@ sector: A8
 [[Focused Reaper Mk5]]
 [[Jolt Sword]]
 [[Long Range Scanner]]
+[[Taqwa's Double]]
+

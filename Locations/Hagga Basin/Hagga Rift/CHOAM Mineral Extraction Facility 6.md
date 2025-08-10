@@ -20,3 +20,4 @@ mapmarkers:
 [[Shock-Sword]]
 [[Focused Buggy Cutteray Mk3]]
 [[Old Sparky Mk 3]]
+[[Seb's Kisser]]

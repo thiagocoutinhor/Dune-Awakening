@@ -12,3 +12,5 @@ sector: A2
 [[Collapsible Dew Reaper Mk5]]
 [[Night Rider Sandbike Boost Mk5]]
 [[Mendek's Rattle]]
+[[Steady Assault Boost Module Mk5]]
+[[Double Sealed Stillnet]]

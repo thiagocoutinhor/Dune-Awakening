@@ -31,3 +31,4 @@ noUI: true
 ```
 # Loot
 [[The Emperor's Wings Mk4]]
+[[Sentinel Armor]]

@@ -11,3 +11,4 @@ sector: A4
 [[Saturnine Stillsuit]]
 [[Cope]]
 [[Filter Extractor Mk5]]
+[[Maas Kheret Bloodbag]]

@@ -30,7 +30,7 @@ markerFolder: Locations
 noUI: true
 ```
 # Loot
-[[Bluddshot Buggy engine Mk4]]
+[[Bluddshot Buggy Engine Mk4]]
 [[Miner's Blessing]]
 [[Improved Suspensor Jacket]]
 [[Pipecleaner]]

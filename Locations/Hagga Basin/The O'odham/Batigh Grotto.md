@@ -16,4 +16,5 @@ mapmarkers:
 ```
 # Loot
 [[House Disruptor Pistol]]
-[[Quirt's Gauntlets]]
+[[Quirth's Armor]]
+[[Sinner's Bloodbag]]

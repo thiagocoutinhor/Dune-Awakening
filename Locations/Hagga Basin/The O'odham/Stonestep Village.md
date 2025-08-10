@@ -18,3 +18,5 @@ mapmarkers:
 [[Compact Compactor Mk4]]
 [[Tarl Cutteray]]
 [[Hajara Literjon Mk4]]
+[[Shadrat's Drinker]]
+[[Miner's Blessing]]

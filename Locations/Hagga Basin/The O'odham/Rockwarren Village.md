@@ -17,4 +17,6 @@ mapmarkers:
 # Loot
 [[Pipecleaner]]
 [[Compact Compactor Mk4]]
-e
+[[Night Rider Sandbike Boost Mk4]]
+[[Bluddshot Buggy Engine Mk4]]
+[[Eviscerator]]

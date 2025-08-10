@@ -85,7 +85,7 @@
       }
     },
     {
-      "query": "tag:#artreides",
+      "query": "tag:#atreides",
       "color": {
         "a": 1,
         "rgb": 65280
@@ -116,6 +116,6 @@
   "repelStrength": 18.3333333333333,
   "linkStrength": 1,
   "linkDistance": 282,
-  "scale": 0.09392927902847029,
+  "scale": 0.0669974499528246,
   "close": false
 }
